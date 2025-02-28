@@ -44,9 +44,9 @@
           <mxGeometry x="390" y="360" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="xTrf-XyffIRIEogrVtLI-21" value="Entity" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="400" y="370" width="100" height="40" as="geometry" />
+          <mxGeometry x="370" y="210" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="xTrf-XyffIRIEogrVtLI-22" value="Entity" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+        <mxCell id="xTrf-XyffIRIEogrVtLI-22" value="信息内网横向边界" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="370" y="170" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="xTrf-XyffIRIEogrVtLI-23" value="信息内网纵向边界" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
