@@ -7,7 +7,7 @@
         <mxCell id="xTrf-XyffIRIEogrVtLI-1" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;基于国产人工智能框架的人工智能样本智能处理模块&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="90" y="130" width="80" height="470" as="geometry" />
         </mxCell>
-        <mxCell id="xTrf-XyffIRIEogrVtLI-9" value="Entity" style="shape=ext;margin=3;double=1;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+        <mxCell id="xTrf-XyffIRIEogrVtLI-9" value="边界安全" style="shape=ext;margin=3;double=1;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="220" y="130" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="xTrf-XyffIRIEogrVtLI-10" value="Entity" style="shape=ext;margin=3;double=1;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
@@ -29,7 +29,7 @@
           <mxGeometry x="220" y="60" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="xTrf-XyffIRIEogrVtLI-16" value="Entity" style="shape=ext;margin=3;double=1;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="380" y="60" width="100" height="40" as="geometry" />
+          <mxGeometry x="240" y="640" width="100" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
