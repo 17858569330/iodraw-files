@@ -64,7 +64,7 @@
         <mxCell id="xTrf-XyffIRIEogrVtLI-27" value="移动终端安全" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="360" y="770" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="xTrf-XyffIRIEogrVtLI-28" value="Entity" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+        <mxCell id="xTrf-XyffIRIEogrVtLI-28" value="开发建设安全管理" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="330" y="870" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="xTrf-XyffIRIEogrVtLI-29" value="桌面终端安全" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
@@ -78,6 +78,9 @@
         </mxCell>
         <mxCell id="xTrf-XyffIRIEogrVtLI-32" value="数据备份与恢复" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="380" y="480" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="xTrf-XyffIRIEogrVtLI-33" value="运行维护安全管理" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="330" y="920" width="100" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
