@@ -56,7 +56,7 @@
           <mxGeometry x="230" y="640" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="xTrf-XyffIRIEogrVtLI-17" value="数据存储和传输安全" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="364" y="430" width="100" height="40" as="geometry" />
+          <mxGeometry x="370" y="420" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="xTrf-XyffIRIEogrVtLI-18" value="应用交互安全" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="370" y="360" width="100" height="40" as="geometry" />
