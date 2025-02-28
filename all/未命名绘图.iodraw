@@ -52,7 +52,7 @@
         <mxCell id="xTrf-XyffIRIEogrVtLI-23" value="Entity" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="420" y="390" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="xTrf-XyffIRIEogrVtLI-24" value="Entity" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+        <mxCell id="xTrf-XyffIRIEogrVtLI-24" value="机房出入安全管理" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="370" y="40" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="xTrf-XyffIRIEogrVtLI-25" value="机房安防措施" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
