@@ -10,11 +10,17 @@
         <mxCell id="5XK6IHonmolpb2dJEq5W-2" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="144" y="390" width="540" height="130" as="geometry" />
         </mxCell>
+        <mxCell id="5XK6IHonmolpb2dJEq5W-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="5XK6IHonmolpb2dJEq5W-3" target="5XK6IHonmolpb2dJEq5W-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="5XK6IHonmolpb2dJEq5W-3" value="样本库" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="180" y="425" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="5XK6IHonmolpb2dJEq5W-4" value="人工智能两库一平台" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="354" y="425" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5XK6IHonmolpb2dJEq5W-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="5XK6IHonmolpb2dJEq5W-5" target="5XK6IHonmolpb2dJEq5W-4">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="5XK6IHonmolpb2dJEq5W-5" value="模型库" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="530" y="425" width="120" height="60" as="geometry" />
