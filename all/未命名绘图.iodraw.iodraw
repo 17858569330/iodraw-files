@@ -81,8 +81,8 @@
             <mxPoint x="520" y="558.0434782608695" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="6YOasUw9mn1qwon71S5O-9" value="内网" style="swimlane;whiteSpace=wrap;html=1;startSize=23;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="145" y="-280" width="730" height="510" as="geometry" />
+        <mxCell id="6YOasUw9mn1qwon71S5O-9" value="内网" style="swimlane;whiteSpace=wrap;html=1;startSize=23;fillColor=#d5e8d4;strokeColor=#82b366;strokeWidth=6;" vertex="1" parent="1">
+          <mxGeometry x="145" y="-290" width="730" height="510" as="geometry" />
         </mxCell>
         <mxCell id="6YOasUw9mn1qwon71S5O-10" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=4;" vertex="1" parent="6YOasUw9mn1qwon71S5O-9">
           <mxGeometry x="150" y="100" width="430" height="120" as="geometry" />
