@@ -43,7 +43,7 @@
         <mxCell id="jcFTnblxNSrmGV04inP0-62" value="输电巡检样本智能归类功能" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="3">
           <mxGeometry x="20.5" y="232" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="jcFTnblxNSrmGV04inP0-61" value="" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="3">
+        <mxCell id="jcFTnblxNSrmGV04inP0-61" value="重复图像样本筛选功能" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="3">
           <mxGeometry x="20.5" y="312" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="jcFTnblxNSrmGV04inP0-60" value="变电巡检样本智能归类功能" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="3">
