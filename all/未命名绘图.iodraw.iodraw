@@ -52,9 +52,6 @@
         <mxCell id="jcFTnblxNSrmGV04inP0-59" value="图像样本专业智能归类功能" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="3">
           <mxGeometry x="145.5" y="232" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="jcFTnblxNSrmGV04inP0-64" value="" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="3">
-          <mxGeometry x="145.5" y="312" width="120" height="60" as="geometry" />
-        </mxCell>
         <mxCell id="4" value="业务逻辑层" style="swimlane;whiteSpace=wrap" parent="1" vertex="1">
           <mxGeometry x="724.5" y="128" width="280" height="570" as="geometry">
             <mxRectangle x="724.5" y="128" width="100" height="30" as="alternateBounds" />
