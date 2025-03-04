@@ -113,6 +113,9 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="jcFTnblxNSrmGV04inP0-53" value="" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="3">
+          <mxGeometry x="-64.5" y="127.5" width="120" height="60" as="geometry" />
+        </mxCell>
         <mxCell id="4" value="业务逻辑层" style="swimlane;whiteSpace=wrap" parent="1" vertex="1">
           <mxGeometry x="724.5" y="128" width="280" height="570" as="geometry">
             <mxRectangle x="724.5" y="128" width="100" height="30" as="alternateBounds" />
@@ -202,9 +205,6 @@
         </mxCell>
         <mxCell id="jcFTnblxNSrmGV04inP0-52" value="" style="endArrow=open;strokeColor=#FF0000;endFill=1;rounded=0" edge="1" parent="jcFTnblxNSrmGV04inP0-47" source="jcFTnblxNSrmGV04inP0-48" target="jcFTnblxNSrmGV04inP0-51">
           <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="jcFTnblxNSrmGV04inP0-53" value="" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
-          <mxGeometry x="620" y="340" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
