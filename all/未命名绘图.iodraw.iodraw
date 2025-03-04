@@ -83,6 +83,11 @@
         <mxCell id="jcFTnblxNSrmGV04inP0-70" value="接口组件" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="jcFTnblxNSrmGV04inP0-41">
           <mxGeometry x="50" y="78" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="jcFTnblxNSrmGV04inP0-84" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="jcFTnblxNSrmGV04inP0-41" source="jcFTnblxNSrmGV04inP0-69">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="290" y="199" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="jcFTnblxNSrmGV04inP0-69" value="数据处理服务组件" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="jcFTnblxNSrmGV04inP0-41">
           <mxGeometry x="50" y="169" width="120" height="60" as="geometry" />
         </mxCell>
