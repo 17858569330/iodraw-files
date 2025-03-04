@@ -85,19 +85,19 @@
           <mxGeometry x="250" y="-270" width="730" height="510" as="geometry" />
         </mxCell>
         <mxCell id="6YOasUw9mn1qwon71S5O-10" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=4;" vertex="1" parent="6YOasUw9mn1qwon71S5O-9">
-          <mxGeometry x="60" y="55" width="430" height="120" as="geometry" />
+          <mxGeometry x="150" y="100" width="430" height="120" as="geometry" />
         </mxCell>
         <mxCell id="6YOasUw9mn1qwon71S5O-12" value="docker" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="6YOasUw9mn1qwon71S5O-9">
-          <mxGeometry x="240" y="65" width="60" height="30" as="geometry" />
+          <mxGeometry x="330" y="110" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="6YOasUw9mn1qwon71S5O-13" value="镜像仓库" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="6YOasUw9mn1qwon71S5O-9">
-          <mxGeometry x="80" y="95" width="120" height="60" as="geometry" />
+          <mxGeometry x="170" y="140" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="6YOasUw9mn1qwon71S5O-14" value="部署服务" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="6YOasUw9mn1qwon71S5O-9">
-          <mxGeometry x="220" y="95" width="120" height="60" as="geometry" />
+          <mxGeometry x="310" y="140" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="6YOasUw9mn1qwon71S5O-15" value="编排文件" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="6YOasUw9mn1qwon71S5O-9">
-          <mxGeometry x="360" y="95" width="120" height="60" as="geometry" />
+          <mxGeometry x="450" y="140" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="6YOasUw9mn1qwon71S5O-22" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="6YOasUw9mn1qwon71S5O-9">
           <mxGeometry x="30" y="300" width="670" height="110" as="geometry" />
