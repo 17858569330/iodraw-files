@@ -123,8 +123,8 @@
         <mxCell id="6YOasUw9mn1qwon71S5O-29" value="成熟模型" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="6YOasUw9mn1qwon71S5O-9">
           <mxGeometry x="469" y="325" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="6YOasUw9mn1qwon71S5O-31" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
-          <mxGeometry x="190" y="450" width="30" height="60" as="geometry" />
+        <mxCell id="6YOasUw9mn1qwon71S5O-31" value="用户" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="170" y="430" width="60" height="90" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
