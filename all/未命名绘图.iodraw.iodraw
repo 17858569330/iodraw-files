@@ -31,7 +31,7 @@
         <mxCell id="3" value="应用层" style="swimlane;whiteSpace=wrap" parent="1" vertex="1">
           <mxGeometry x="444.5" y="128" width="280" height="570" as="geometry" />
         </mxCell>
-        <mxCell id="jcFTnblxNSrmGV04inP0-54" value="" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="3">
+        <mxCell id="jcFTnblxNSrmGV04inP0-54" value="基于国产人工智能框架的绝缘子自爆缺陷判别模型" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="3">
           <mxGeometry x="20.5" y="62" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="jcFTnblxNSrmGV04inP0-58" value="" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="3">
@@ -52,6 +52,9 @@
         <mxCell id="jcFTnblxNSrmGV04inP0-59" value="" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="3">
           <mxGeometry x="145.5" y="232" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="jcFTnblxNSrmGV04inP0-64" value="" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="3">
+          <mxGeometry x="145.5" y="312" width="120" height="60" as="geometry" />
+        </mxCell>
         <mxCell id="4" value="业务逻辑层" style="swimlane;whiteSpace=wrap" parent="1" vertex="1">
           <mxGeometry x="724.5" y="128" width="280" height="570" as="geometry">
             <mxRectangle x="724.5" y="128" width="100" height="30" as="alternateBounds" />
@@ -66,9 +69,6 @@
           <mxGeometry x="1284.5" y="128" width="280" height="570" as="geometry">
             <mxRectangle x="724.5" y="128" width="100" height="30" as="alternateBounds" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="jcFTnblxNSrmGV04inP0-64" value="" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
-          <mxGeometry x="360" y="320.5" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
