@@ -46,6 +46,15 @@
             <mxPoint x="394.5" y="340" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="5XK6IHonmolpb2dJEq5W-16" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="380" y="290" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="5XK6IHonmolpb2dJEq5W-17" value="服务集成" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="335" y="200" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="5XK6IHonmolpb2dJEq5W-18" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="380" y="290" width="60" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
