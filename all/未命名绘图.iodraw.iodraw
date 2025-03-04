@@ -27,7 +27,7 @@
         <mxCell id="G_DRJTNpW-s-gl4NMUkz-6" value="&lt;span style=&quot;font-size: 10.5pt; line-height: 150%;&quot;&gt;重复图像样本管理单元&lt;/span&gt;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fillColor=#fff2cc;strokeColor=#d6b656;fontFamily=Verdana;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-11">
           <mxGeometry x="470" y="160" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="G_DRJTNpW-s-gl4NMUkz-7" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="G_DRJTNpW-s-gl4NMUkz-7" value="统一计算云" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="50" y="450" width="760" height="60" as="geometry" />
         </mxCell>
       </root>
