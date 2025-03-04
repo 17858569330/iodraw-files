@@ -93,11 +93,11 @@
         <mxCell id="6YOasUw9mn1qwon71S5O-13" value="镜像仓库" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="6YOasUw9mn1qwon71S5O-9">
           <mxGeometry x="70" y="135" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="6YOasUw9mn1qwon71S5O-14" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="6YOasUw9mn1qwon71S5O-9">
+        <mxCell id="6YOasUw9mn1qwon71S5O-14" value="部署服务" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="6YOasUw9mn1qwon71S5O-9">
           <mxGeometry x="220" y="130" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="6YOasUw9mn1qwon71S5O-15" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="6YOasUw9mn1qwon71S5O-9">
-          <mxGeometry x="80" y="240" width="120" height="60" as="geometry" />
+        <mxCell id="6YOasUw9mn1qwon71S5O-15" value="编排文件" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="6YOasUw9mn1qwon71S5O-9">
+          <mxGeometry x="350" y="130" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
