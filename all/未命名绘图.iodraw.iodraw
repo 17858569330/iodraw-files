@@ -145,7 +145,7 @@
         <mxCell id="20" value="" style="endArrow=open;strokeColor=#FF0000;endFill=1;rounded=0" parent="1" source="10" target="18" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="jcFTnblxNSrmGV04inP0-41" value="业务逻辑层" style="swimlane;whiteSpace=wrap" vertex="1" parent="1">
+        <mxCell id="jcFTnblxNSrmGV04inP0-41" value="基础服务层" style="swimlane;whiteSpace=wrap" vertex="1" parent="1">
           <mxGeometry x="1004.5" y="128" width="280" height="570" as="geometry">
             <mxRectangle x="724.5" y="128" width="100" height="30" as="alternateBounds" />
           </mxGeometry>
