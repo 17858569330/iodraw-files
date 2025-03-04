@@ -75,16 +75,16 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="jcFTnblxNSrmGV04inP0-70" value="接口组件" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="jcFTnblxNSrmGV04inP0-41">
-          <mxGeometry x="79" y="67" width="120" height="60" as="geometry" />
+          <mxGeometry x="50" y="61" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="jcFTnblxNSrmGV04inP0-69" value="数据处理服务组件" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="jcFTnblxNSrmGV04inP0-41">
-          <mxGeometry x="79" y="187" width="120" height="60" as="geometry" />
+          <mxGeometry x="50" y="181" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="jcFTnblxNSrmGV04inP0-68" value="容器编排组件" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="jcFTnblxNSrmGV04inP0-41">
-          <mxGeometry x="79" y="277" width="120" height="60" as="geometry" />
+          <mxGeometry x="50" y="271" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="jcFTnblxNSrmGV04inP0-67" value="镜像存储组件" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="jcFTnblxNSrmGV04inP0-41">
-          <mxGeometry x="79" y="367" width="120" height="60" as="geometry" />
+          <mxGeometry x="50" y="361" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="jcFTnblxNSrmGV04inP0-47" value="数据处理层" style="swimlane;whiteSpace=wrap" vertex="1" parent="1">
           <mxGeometry x="1284.5" y="128" width="280" height="570" as="geometry">
