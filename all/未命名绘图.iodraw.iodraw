@@ -52,8 +52,8 @@
         <mxCell id="5XK6IHonmolpb2dJEq5W-18" value="用户信息" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="411" y="200" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="5XK6IHonmolpb2dJEq5W-19" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="405" y="370" width="60" height="30" as="geometry" />
+        <mxCell id="5XK6IHonmolpb2dJEq5W-19" value="部署" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="395" y="370" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
