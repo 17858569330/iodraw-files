@@ -31,10 +31,10 @@
         <mxCell id="3" value="应用层" style="swimlane;whiteSpace=wrap" parent="1" vertex="1">
           <mxGeometry x="444.5" y="128" width="280" height="570" as="geometry" />
         </mxCell>
-        <mxCell id="jcFTnblxNSrmGV04inP0-54" value="基于国产人工智能框架的绝缘子自爆缺陷判别模型" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="3">
+        <mxCell id="jcFTnblxNSrmGV04inP0-54" value="小目标目标检测预训练模型" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="3">
           <mxGeometry x="20.5" y="62" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="jcFTnblxNSrmGV04inP0-58" value="基于国产人工智能模型的变压器渗漏油模型" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="3">
+        <mxCell id="jcFTnblxNSrmGV04inP0-58" value="常规目标检测预训练模型" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="3">
           <mxGeometry x="145.5" y="62" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="jcFTnblxNSrmGV04inP0-63" value="" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="3">
