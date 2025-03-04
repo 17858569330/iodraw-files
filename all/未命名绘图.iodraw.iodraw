@@ -13,7 +13,7 @@
         <mxCell id="5XK6IHonmolpb2dJEq5W-3" value="样本库" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="180" y="425" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="5XK6IHonmolpb2dJEq5W-4" value="人工智能平台" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
+        <mxCell id="5XK6IHonmolpb2dJEq5W-4" value="人工智能两库一平台" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="354" y="425" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="5XK6IHonmolpb2dJEq5W-5" value="模型库" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
