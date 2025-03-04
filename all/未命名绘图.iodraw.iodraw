@@ -32,7 +32,7 @@
           <mxGeometry x="37.75" y="171" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="3" value="应用层" style="swimlane;whiteSpace=wrap;fillColor=#dae8fc;strokeColor=#6c8ebf;strokeWidth=5;" parent="1" vertex="1">
-          <mxGeometry x="480" y="240" width="280" height="482" as="geometry" />
+          <mxGeometry x="400" y="128" width="280" height="482" as="geometry" />
         </mxCell>
         <mxCell id="jcFTnblxNSrmGV04inP0-54" value="小目标目标检测预训练模型" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="3">
           <mxGeometry x="20.5" y="62" width="120" height="60" as="geometry" />
@@ -44,25 +44,25 @@
           <mxGeometry x="20.5" y="142" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="jcFTnblxNSrmGV04inP0-62" value="输电巡检样本智能归类功能" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="3">
-          <mxGeometry x="20.5" y="232" width="120" height="60" as="geometry" />
+          <mxGeometry x="20.5" y="228" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="jcFTnblxNSrmGV04inP0-61" value="重复图像样本筛选功能" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="3">
-          <mxGeometry x="20.5" y="312" width="120" height="60" as="geometry" />
+          <mxGeometry x="20.5" y="308" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="jcFTnblxNSrmGV04inP0-60" value="变电巡检样本智能归类功能" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="3">
           <mxGeometry x="145.5" y="142" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="jcFTnblxNSrmGV04inP0-59" value="图像样本专业智能归类功能" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="3">
-          <mxGeometry x="20.5" y="392" width="120" height="60" as="geometry" />
+          <mxGeometry x="20.5" y="388" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="jcFTnblxNSrmGV04inP0-72" value="交互式建模组件" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="3">
-          <mxGeometry x="145.5" y="232" width="120" height="60" as="geometry" />
+          <mxGeometry x="145.5" y="228" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="jcFTnblxNSrmGV04inP0-73" value="资源监控组件" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="3">
-          <mxGeometry x="145.5" y="312" width="120" height="60" as="geometry" />
+          <mxGeometry x="145.5" y="308" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="jcFTnblxNSrmGV04inP0-74" value="模型服务管理组件" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="3">
-          <mxGeometry x="145.5" y="392" width="120" height="60" as="geometry" />
+          <mxGeometry x="145.5" y="388" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="4" value="业务逻辑层" style="swimlane;whiteSpace=wrap;fillColor=#dae8fc;strokeColor=#6c8ebf;strokeWidth=5;" parent="1" vertex="1">
           <mxGeometry x="730" y="128" width="160" height="482" as="geometry">
