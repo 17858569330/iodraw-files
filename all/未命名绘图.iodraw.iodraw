@@ -24,9 +24,6 @@
         <mxCell id="69ecfefc5c41e42c-5" value="平台使用方" style="image;html=1;labelBackgroundColor=#ffffff;image=img/lib/clip_art/computers/Monitor_Tower_128x128.png;rounded=1;shadow=0;comic=0;strokeWidth=2;fontSize=22" parent="1" vertex="1">
           <mxGeometry x="150" y="640" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="69ecfefc5c41e42c-7" value="PC" style="image;html=1;labelBackgroundColor=#ffffff;image=img/lib/clip_art/computers/Workstation_128x128.png;rounded=1;shadow=0;comic=0;strokeWidth=2;fontSize=22" parent="1" vertex="1">
-          <mxGeometry x="730" y="670" width="80" height="80" as="geometry" />
-        </mxCell>
         <mxCell id="69ecfefc5c41e42c-8" value="Mobile" style="image;html=1;labelBackgroundColor=#ffffff;image=img/lib/clip_art/telecommunication/iPhone_128x128.png;rounded=1;shadow=0;comic=0;strokeWidth=2;fontSize=22" parent="1" vertex="1">
           <mxGeometry x="800" y="550" width="80" height="80" as="geometry" />
         </mxCell>
@@ -60,9 +57,9 @@
             <mxPoint x="490" y="528.0434782608695" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="69ecfefc5c41e42c-15" value="" style="html=1;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.comm_link_edge;html=1;labelBackgroundColor=none;endArrow=none;fontFamily=Verdana;fontSize=22;fontColor=#000000;" parent="1" source="69ecfefc5c41e42c-7" target="69ecfefc5c41e42c-1" edge="1">
+        <mxCell id="69ecfefc5c41e42c-15" value="" style="html=1;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.comm_link_edge;html=1;labelBackgroundColor=none;endArrow=none;fontFamily=Verdana;fontSize=22;fontColor=#000000;" parent="1" target="69ecfefc5c41e42c-1" edge="1">
           <mxGeometry width="100" height="100" relative="1" as="geometry">
-            <mxPoint x="350" y="511.9565217391305" as="sourcePoint" />
+            <mxPoint x="730" y="678.4615384615386" as="sourcePoint" />
             <mxPoint x="500" y="538.0434782608695" as="targetPoint" />
           </mxGeometry>
         </mxCell>
@@ -127,7 +124,7 @@
           <mxGeometry x="170" y="430" width="60" height="90" as="geometry" />
         </mxCell>
         <mxCell id="6YOasUw9mn1qwon71S5O-44" value="平台使用方" style="image;html=1;labelBackgroundColor=#ffffff;image=img/lib/clip_art/computers/Monitor_Tower_128x128.png;rounded=1;shadow=0;comic=0;strokeWidth=2;fontSize=22" vertex="1" parent="1">
-          <mxGeometry x="160" y="650" width="80" height="80" as="geometry" />
+          <mxGeometry x="710" y="680" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
