@@ -65,10 +65,10 @@
             <mxRectangle x="724.5" y="128" width="100" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="jcFTnblxNSrmGV04inP0-70" value="" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="jcFTnblxNSrmGV04inP0-41">
+        <mxCell id="jcFTnblxNSrmGV04inP0-70" value="接口组件" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="jcFTnblxNSrmGV04inP0-41">
           <mxGeometry x="80" y="122" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="jcFTnblxNSrmGV04inP0-69" value="" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="jcFTnblxNSrmGV04inP0-41">
+        <mxCell id="jcFTnblxNSrmGV04inP0-69" value="数据处理服务组件" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="jcFTnblxNSrmGV04inP0-41">
           <mxGeometry x="80" y="242" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="jcFTnblxNSrmGV04inP0-68" value="" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="jcFTnblxNSrmGV04inP0-41">
