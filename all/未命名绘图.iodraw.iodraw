@@ -24,9 +24,6 @@
         <mxCell id="69ecfefc5c41e42c-5" value="PC" style="image;html=1;labelBackgroundColor=#ffffff;image=img/lib/clip_art/computers/Monitor_Tower_128x128.png;rounded=1;shadow=0;comic=0;strokeWidth=2;fontSize=22" parent="1" vertex="1">
           <mxGeometry x="150" y="640" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="69ecfefc5c41e42c-6" value="Printer" style="image;html=1;labelBackgroundColor=#ffffff;image=img/lib/clip_art/computers/Printer_128x128.png;rounded=1;shadow=0;comic=0;strokeWidth=2;fontSize=22" parent="1" vertex="1">
-          <mxGeometry x="150" y="440" width="80" height="80" as="geometry" />
-        </mxCell>
         <mxCell id="69ecfefc5c41e42c-7" value="PC" style="image;html=1;labelBackgroundColor=#ffffff;image=img/lib/clip_art/computers/Workstation_128x128.png;rounded=1;shadow=0;comic=0;strokeWidth=2;fontSize=22" parent="1" vertex="1">
           <mxGeometry x="730" y="670" width="80" height="80" as="geometry" />
         </mxCell>
@@ -39,9 +36,9 @@
         <mxCell id="69ecfefc5c41e42c-10" value="Laptop" style="image;html=1;labelBackgroundColor=#ffffff;image=img/lib/clip_art/computers/Netbook_128x128.png;rounded=1;shadow=0;comic=0;strokeWidth=2;fontSize=22" parent="1" vertex="1">
           <mxGeometry x="320" y="710" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="69ecfefc5c41e42c-11" value="" style="html=1;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.comm_link_edge;html=1;labelBackgroundColor=none;endArrow=none;fontFamily=Verdana;fontSize=22;fontColor=#000000;" parent="1" source="69ecfefc5c41e42c-6" target="69ecfefc5c41e42c-1" edge="1">
+        <mxCell id="69ecfefc5c41e42c-11" value="" style="html=1;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.comm_link_edge;html=1;labelBackgroundColor=none;endArrow=none;fontFamily=Verdana;fontSize=22;fontColor=#000000;" parent="1" target="69ecfefc5c41e42c-1" edge="1">
           <mxGeometry width="100" height="100" relative="1" as="geometry">
-            <mxPoint x="300" y="390" as="sourcePoint" />
+            <mxPoint x="230" y="483.125" as="sourcePoint" />
             <mxPoint x="400" y="290" as="targetPoint" />
           </mxGeometry>
         </mxCell>
@@ -127,7 +124,7 @@
           <mxGeometry x="469" y="325" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="6YOasUw9mn1qwon71S5O-31" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
-          <mxGeometry x="370" y="460" width="30" height="60" as="geometry" />
+          <mxGeometry x="190" y="450" width="30" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
