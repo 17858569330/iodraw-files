@@ -121,10 +121,10 @@
           <mxGeometry x="710" y="680" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="6YOasUw9mn1qwon71S5O-46" value="用户" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
-          <mxGeometry x="180" y="440" width="60" height="90" as="geometry" />
+          <mxGeometry x="800" y="530" width="60" height="90" as="geometry" />
         </mxCell>
         <mxCell id="6YOasUw9mn1qwon71S5O-47" value="用户" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
-          <mxGeometry x="190" y="450" width="60" height="90" as="geometry" />
+          <mxGeometry x="800" y="400" width="60" height="90" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
