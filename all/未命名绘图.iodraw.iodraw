@@ -114,7 +114,7 @@
         <mxCell id="6YOasUw9mn1qwon71S5O-29" value="成熟模型" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="6YOasUw9mn1qwon71S5O-9">
           <mxGeometry x="469" y="325" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="6YOasUw9mn1qwon71S5O-31" value="用户" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+        <mxCell id="6YOasUw9mn1qwon71S5O-31" value="用户" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="170" y="430" width="60" height="90" as="geometry" />
         </mxCell>
         <mxCell id="6YOasUw9mn1qwon71S5O-44" value="平台使用方" style="image;html=1;labelBackgroundColor=#ffffff;image=img/lib/clip_art/computers/Monitor_Tower_128x128.png;rounded=1;shadow=0;comic=0;strokeWidth=2;fontSize=22" vertex="1" parent="1">
@@ -123,7 +123,7 @@
         <mxCell id="6YOasUw9mn1qwon71S5O-46" value="用户" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
           <mxGeometry x="800" y="530" width="60" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="6YOasUw9mn1qwon71S5O-47" value="用户" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+        <mxCell id="6YOasUw9mn1qwon71S5O-47" value="用户" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="800" y="400" width="60" height="90" as="geometry" />
         </mxCell>
       </root>
