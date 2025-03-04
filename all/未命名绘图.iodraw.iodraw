@@ -71,10 +71,10 @@
         <mxCell id="jcFTnblxNSrmGV04inP0-69" value="数据处理服务组件" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="jcFTnblxNSrmGV04inP0-41">
           <mxGeometry x="80" y="242" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="jcFTnblxNSrmGV04inP0-68" value="" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="jcFTnblxNSrmGV04inP0-41">
+        <mxCell id="jcFTnblxNSrmGV04inP0-68" value="容器编排组件" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="jcFTnblxNSrmGV04inP0-41">
           <mxGeometry x="80" y="332" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="jcFTnblxNSrmGV04inP0-67" value="" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="jcFTnblxNSrmGV04inP0-41">
+        <mxCell id="jcFTnblxNSrmGV04inP0-67" value="镜像存储组件" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="jcFTnblxNSrmGV04inP0-41">
           <mxGeometry x="80" y="422" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="jcFTnblxNSrmGV04inP0-47" value="数据处理层" style="swimlane;whiteSpace=wrap" vertex="1" parent="1">
