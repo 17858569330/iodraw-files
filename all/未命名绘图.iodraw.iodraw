@@ -99,7 +99,10 @@
         <mxCell id="6YOasUw9mn1qwon71S5O-15" value="编排文件" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="6YOasUw9mn1qwon71S5O-9">
           <mxGeometry x="450" y="140" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="6YOasUw9mn1qwon71S5O-22" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;strokeWidth=5;" vertex="1" parent="6YOasUw9mn1qwon71S5O-9">
+        <mxCell id="6YOasUw9mn1qwon71S5O-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;strokeWidth=3;" edge="1" parent="6YOasUw9mn1qwon71S5O-9" source="6YOasUw9mn1qwon71S5O-22" target="6YOasUw9mn1qwon71S5O-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6YOasUw9mn1qwon71S5O-22" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;strokeWidth=5;" vertex="1" parent="6YOasUw9mn1qwon71S5O-9">
           <mxGeometry x="30" y="300" width="670" height="110" as="geometry" />
         </mxCell>
         <mxCell id="6YOasUw9mn1qwon71S5O-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="6YOasUw9mn1qwon71S5O-9" source="6YOasUw9mn1qwon71S5O-24" target="6YOasUw9mn1qwon71S5O-25">
