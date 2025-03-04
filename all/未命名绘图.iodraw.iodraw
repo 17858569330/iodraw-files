@@ -174,7 +174,7 @@
         <mxCell id="jcFTnblxNSrmGV04inP0-46" value="" style="endArrow=open;strokeColor=#FF0000;endFill=1;rounded=0" edge="1" parent="jcFTnblxNSrmGV04inP0-41" source="jcFTnblxNSrmGV04inP0-42" target="jcFTnblxNSrmGV04inP0-45">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="jcFTnblxNSrmGV04inP0-47" value="业务逻辑层" style="swimlane;whiteSpace=wrap" vertex="1" parent="1">
+        <mxCell id="jcFTnblxNSrmGV04inP0-47" value="数据处理层" style="swimlane;whiteSpace=wrap" vertex="1" parent="1">
           <mxGeometry x="1284.5" y="128" width="280" height="570" as="geometry">
             <mxRectangle x="724.5" y="128" width="100" height="30" as="alternateBounds" />
           </mxGeometry>
