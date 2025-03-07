@@ -28,13 +28,13 @@
         <mxCell id="JYqO0b1SJ12VwLsH_8p1-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.561;entryY=0.044;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="dNxyNK7c78bLwvsdeMH5-11" source="JYqO0b1SJ12VwLsH_8p1-2" target="JYqO0b1SJ12VwLsH_8p1-4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="JYqO0b1SJ12VwLsH_8p1-14" value="实施组" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="JYqO0b1SJ12VwLsH_8p1-14" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;实施组&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="305" y="537" width="20" height="130" as="geometry" />
         </mxCell>
-        <mxCell id="JYqO0b1SJ12VwLsH_8p1-13" value="测试组" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="JYqO0b1SJ12VwLsH_8p1-13" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;测试组&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="250" y="537" width="20" height="130" as="geometry" />
         </mxCell>
-        <mxCell id="JYqO0b1SJ12VwLsH_8p1-12" value="开发组" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="JYqO0b1SJ12VwLsH_8p1-12" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;开发组&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="200" y="537" width="20" height="130" as="geometry" />
         </mxCell>
         <mxCell id="JYqO0b1SJ12VwLsH_8p1-5" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;设计组&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
