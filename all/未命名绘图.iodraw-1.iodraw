@@ -10,8 +10,11 @@
         <mxCell id="JYqO0b1SJ12VwLsH_8p1-1" value="中国电科院数字化部" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-11">
           <mxGeometry x="295" y="30" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="JYqO0b1SJ12VwLsH_8p1-2" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-11">
+        <mxCell id="JYqO0b1SJ12VwLsH_8p1-2" value="中国电科院人工智能所" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-11">
           <mxGeometry x="295" y="130" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="JYqO0b1SJ12VwLsH_8p1-3" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-11">
+          <mxGeometry x="60" y="190" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
