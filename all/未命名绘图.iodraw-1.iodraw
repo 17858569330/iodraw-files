@@ -10,9 +10,6 @@
         <mxCell id="JYqO0b1SJ12VwLsH_8p1-1" value="中国电科院数字化部" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-11">
           <mxGeometry x="295" y="50" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="JYqO0b1SJ12VwLsH_8p1-17" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="dNxyNK7c78bLwvsdeMH5-11" source="JYqO0b1SJ12VwLsH_8p1-2" target="JYqO0b1SJ12VwLsH_8p1-4">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="JYqO0b1SJ12VwLsH_8p1-2" value="中国电科院人工智能所" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-11">
           <mxGeometry x="295" y="150" width="120" height="60" as="geometry" />
         </mxCell>
