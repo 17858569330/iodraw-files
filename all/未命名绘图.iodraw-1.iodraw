@@ -8,16 +8,16 @@
           <mxGeometry x="40" y="80" width="710" height="410" as="geometry" />
         </mxCell>
         <mxCell id="JYqO0b1SJ12VwLsH_8p1-1" value="中国电科院数字化部" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-11">
-          <mxGeometry x="295" y="30" width="120" height="60" as="geometry" />
+          <mxGeometry x="295" y="50" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="JYqO0b1SJ12VwLsH_8p1-2" value="中国电科院人工智能所" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-11">
-          <mxGeometry x="295" y="130" width="120" height="60" as="geometry" />
+          <mxGeometry x="295" y="150" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="JYqO0b1SJ12VwLsH_8p1-3" value="项目组" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-11">
-          <mxGeometry x="60" y="190" width="120" height="60" as="geometry" />
+          <mxGeometry x="175" y="230" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="JYqO0b1SJ12VwLsH_8p1-4" value="技术团队专家" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-11">
-          <mxGeometry x="430" y="210" width="120" height="60" as="geometry" />
+          <mxGeometry x="430" y="240" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="JYqO0b1SJ12VwLsH_8p1-5" value="设计组" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-11">
           <mxGeometry x="20" y="270" width="20" height="130" as="geometry" />
