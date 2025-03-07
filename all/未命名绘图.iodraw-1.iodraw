@@ -20,7 +20,25 @@
           <mxGeometry x="430" y="210" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="JYqO0b1SJ12VwLsH_8p1-5" value="设计组" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-11">
-          <mxGeometry x="20" y="270" width="40" height="130" as="geometry" />
+          <mxGeometry x="20" y="270" width="20" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="JYqO0b1SJ12VwLsH_8p1-6" value="&lt;font style=&quot;font-size: 22px;&quot;&gt;组织架构图&lt;/font&gt;" style="swimlane;html=1;startSize=20;horizontal=1;containerType=tree;glass=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="50" y="90" width="710" height="400" as="geometry" />
+        </mxCell>
+        <mxCell id="JYqO0b1SJ12VwLsH_8p1-7" value="中国电科院数字化部" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="JYqO0b1SJ12VwLsH_8p1-6">
+          <mxGeometry x="295" y="30" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="JYqO0b1SJ12VwLsH_8p1-8" value="中国电科院人工智能所" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="JYqO0b1SJ12VwLsH_8p1-6">
+          <mxGeometry x="295" y="130" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="JYqO0b1SJ12VwLsH_8p1-9" value="项目组" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="JYqO0b1SJ12VwLsH_8p1-6">
+          <mxGeometry x="60" y="190" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="JYqO0b1SJ12VwLsH_8p1-10" value="技术团队专家" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="JYqO0b1SJ12VwLsH_8p1-6">
+          <mxGeometry x="430" y="210" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="JYqO0b1SJ12VwLsH_8p1-11" value="设计组" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="JYqO0b1SJ12VwLsH_8p1-6">
+          <mxGeometry x="20" y="270" width="20" height="130" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
