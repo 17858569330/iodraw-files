@@ -14,13 +14,18 @@
           <mxGeometry x="295" y="150" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="JYqO0b1SJ12VwLsH_8p1-3" value="项目组" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-11">
-          <mxGeometry x="175" y="230" width="120" height="60" as="geometry" />
+          <mxGeometry x="175" y="260" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="JYqO0b1SJ12VwLsH_8p1-4" value="技术团队专家" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-11">
-          <mxGeometry x="415" y="230" width="120" height="60" as="geometry" />
+          <mxGeometry x="415" y="260" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="JYqO0b1SJ12VwLsH_8p1-5" value="设计组" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-11">
           <mxGeometry x="20" y="270" width="20" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="JYqO0b1SJ12VwLsH_8p1-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="dNxyNK7c78bLwvsdeMH5-11" source="JYqO0b1SJ12VwLsH_8p1-14">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="220" y="410" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="JYqO0b1SJ12VwLsH_8p1-14" value="实施组" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-11">
           <mxGeometry x="170" y="270" width="20" height="130" as="geometry" />
