@@ -5,7 +5,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="dNxyNK7c78bLwvsdeMH5-11" value="&lt;font style=&quot;font-size: 22px;&quot;&gt;组织架构图&lt;/font&gt;" style="swimlane;html=1;startSize=20;horizontal=1;containerType=tree;glass=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
-          <mxGeometry x="40" y="80" width="710" height="330" as="geometry" />
+          <mxGeometry x="40" y="80" width="710" height="400" as="geometry" />
         </mxCell>
         <mxCell id="JYqO0b1SJ12VwLsH_8p1-1" value="中国电科院数字化部" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-11">
           <mxGeometry x="295" y="30" width="120" height="60" as="geometry" />
@@ -19,8 +19,8 @@
         <mxCell id="JYqO0b1SJ12VwLsH_8p1-4" value="技术团队专家" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-11">
           <mxGeometry x="430" y="210" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="JYqO0b1SJ12VwLsH_8p1-5" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-11">
-          <mxGeometry x="20" y="270" width="40" height="60" as="geometry" />
+        <mxCell id="JYqO0b1SJ12VwLsH_8p1-5" value="设计组" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-11">
+          <mxGeometry x="20" y="270" width="40" height="130" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
