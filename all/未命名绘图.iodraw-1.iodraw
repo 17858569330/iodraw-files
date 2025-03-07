@@ -5,9 +5,9 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="dNxyNK7c78bLwvsdeMH5-11" value="&lt;font style=&quot;font-size: 22px;&quot;&gt;组织架构图&lt;/font&gt;" style="swimlane;html=1;startSize=20;horizontal=1;containerType=tree;glass=0;fillColor=#dae8fc;strokeColor=#6c8ebf;rounded=0;shadow=0;" parent="1" vertex="1">
-          <mxGeometry x="40" y="100" width="710" height="530" as="geometry" />
+          <mxGeometry x="40" y="100" width="710" height="600" as="geometry" />
         </mxCell>
-        <mxCell id="JYqO0b1SJ12VwLsH_8p1-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="dNxyNK7c78bLwvsdeMH5-11" source="JYqO0b1SJ12VwLsH_8p1-1" target="JYqO0b1SJ12VwLsH_8p1-2">
+        <mxCell id="JYqO0b1SJ12VwLsH_8p1-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=3;" edge="1" parent="dNxyNK7c78bLwvsdeMH5-11" source="JYqO0b1SJ12VwLsH_8p1-1" target="JYqO0b1SJ12VwLsH_8p1-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="JYqO0b1SJ12VwLsH_8p1-1" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;中国电科院数字化部&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-11">
@@ -28,16 +28,16 @@
         <mxCell id="JYqO0b1SJ12VwLsH_8p1-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.561;entryY=0.044;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="dNxyNK7c78bLwvsdeMH5-11" source="JYqO0b1SJ12VwLsH_8p1-2" target="JYqO0b1SJ12VwLsH_8p1-4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="JYqO0b1SJ12VwLsH_8p1-14" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;实施组&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="JYqO0b1SJ12VwLsH_8p1-14" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;实施组&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="305" y="537" width="20" height="130" as="geometry" />
         </mxCell>
-        <mxCell id="JYqO0b1SJ12VwLsH_8p1-13" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;测试组&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="JYqO0b1SJ12VwLsH_8p1-13" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;测试组&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="250" y="537" width="20" height="130" as="geometry" />
         </mxCell>
-        <mxCell id="JYqO0b1SJ12VwLsH_8p1-12" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;开发组&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="JYqO0b1SJ12VwLsH_8p1-12" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;开发组&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="200" y="537" width="20" height="130" as="geometry" />
         </mxCell>
-        <mxCell id="JYqO0b1SJ12VwLsH_8p1-5" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;设计组&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="JYqO0b1SJ12VwLsH_8p1-5" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;设计组&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="150" y="537" width="20" height="130" as="geometry" />
         </mxCell>
         <mxCell id="JYqO0b1SJ12VwLsH_8p1-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="JYqO0b1SJ12VwLsH_8p1-3" target="JYqO0b1SJ12VwLsH_8p1-14">
