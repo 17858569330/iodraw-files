@@ -16,7 +16,7 @@
         <mxCell id="JYqO0b1SJ12VwLsH_8p1-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="dNxyNK7c78bLwvsdeMH5-11" source="JYqO0b1SJ12VwLsH_8p1-2" target="JYqO0b1SJ12VwLsH_8p1-3">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="JYqO0b1SJ12VwLsH_8p1-2" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;中国电科院人工智能所&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#0050ef;strokeColor=#001DBC;fontColor=#ffffff;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-11">
+        <mxCell id="JYqO0b1SJ12VwLsH_8p1-2" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;中国电科院人工智能所&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1ba1e2;strokeColor=#006EAF;fontColor=#ffffff;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-11">
           <mxGeometry x="230" y="150" width="240" height="60" as="geometry" />
         </mxCell>
         <mxCell id="JYqO0b1SJ12VwLsH_8p1-3" value="项目组" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-11">
