@@ -20,10 +20,10 @@
           <mxGeometry x="230" y="150" width="240" height="60" as="geometry" />
         </mxCell>
         <mxCell id="JYqO0b1SJ12VwLsH_8p1-3" value="项目组" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-11">
-          <mxGeometry x="175" y="260" width="120" height="60" as="geometry" />
+          <mxGeometry x="140" y="300" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="JYqO0b1SJ12VwLsH_8p1-4" value="技术团队专家" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-11">
-          <mxGeometry x="415" y="260" width="120" height="60" as="geometry" />
+          <mxGeometry x="440" y="300" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="JYqO0b1SJ12VwLsH_8p1-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.561;entryY=0.044;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="dNxyNK7c78bLwvsdeMH5-11" source="JYqO0b1SJ12VwLsH_8p1-2" target="JYqO0b1SJ12VwLsH_8p1-4">
           <mxGeometry relative="1" as="geometry" />
@@ -54,8 +54,8 @@
         </mxCell>
         <mxCell id="JYqO0b1SJ12VwLsH_8p1-28" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="430" y="394" as="sourcePoint" />
-            <mxPoint x="350" y="394" as="targetPoint" />
+            <mxPoint x="430" y="395" as="sourcePoint" />
+            <mxPoint x="350" y="395" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
