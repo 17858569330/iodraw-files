@@ -65,7 +65,7 @@
           <mxGeometry x="582" y="559" width="149" height="60" as="geometry" />
         </mxCell>
         <mxCell id="v61mKVEbNvWjGDij5buq-184" value="省市" style="whiteSpace=wrap;strokeWidth=10;verticalAlign=top;fontSize=30;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="510" y="1980" width="1436" height="770" as="geometry" />
+          <mxGeometry x="500" y="1980" width="1436" height="770" as="geometry" />
         </mxCell>
         <mxCell id="v61mKVEbNvWjGDij5buq-185" value="模型库" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="v61mKVEbNvWjGDij5buq-184">
           <mxGeometry x="63" y="244" width="109" height="49" as="geometry" />
