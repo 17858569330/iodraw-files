@@ -64,6 +64,9 @@
         <mxCell id="v61mKVEbNvWjGDij5buq-240" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;本系统主要涉及桌面终端从云平台上传或者下载模型以及数据等非结构化类型数据&lt;/span&gt;" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;direction=west;size=10;position=0.55;position2=0.45;" vertex="1" parent="v61mKVEbNvWjGDij5buq-92">
           <mxGeometry x="420.5" y="600" width="390" height="110" as="geometry" />
         </mxCell>
+        <mxCell id="v61mKVEbNvWjGDij5buq-241" value="样本库" style="whiteSpace=wrap;strokeWidth=2;fontSize=15;" vertex="1" parent="v61mKVEbNvWjGDij5buq-92">
+          <mxGeometry x="210" y="244" width="110" height="49" as="geometry" />
+        </mxCell>
         <mxCell id="v61mKVEbNvWjGDij5buq-184" value="省市" style="whiteSpace=wrap;strokeWidth=10;verticalAlign=top;fontSize=30;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="500" y="1980" width="1436" height="850" as="geometry" />
         </mxCell>
@@ -137,9 +140,6 @@
               <mxPoint x="270" y="-96" />
             </Array>
           </mxGeometry>
-        </mxCell>
-        <mxCell id="v61mKVEbNvWjGDij5buq-241" value="模型库" style="whiteSpace=wrap;strokeWidth=2;fontSize=15;" vertex="1" parent="1">
-          <mxGeometry x="582" y="1324" width="110" height="49" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
