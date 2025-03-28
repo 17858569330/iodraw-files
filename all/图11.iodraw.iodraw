@@ -22,10 +22,10 @@
         <mxCell id="v61mKVEbNvWjGDij5buq-101" value="统一密码服务平台" style="whiteSpace=wrap;strokeWidth=2;fontSize=15;" vertex="1" parent="v61mKVEbNvWjGDij5buq-92">
           <mxGeometry x="311" y="244" width="189" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="v61mKVEbNvWjGDij5buq-102" value="RDS数据库" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="v61mKVEbNvWjGDij5buq-92">
+        <mxCell id="v61mKVEbNvWjGDij5buq-102" value="RDS数据库" style="whiteSpace=wrap;strokeWidth=2;fontSize=15;" vertex="1" parent="v61mKVEbNvWjGDij5buq-92">
           <mxGeometry x="120" y="510" width="135" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="v61mKVEbNvWjGDij5buq-103" value="OSS" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="v61mKVEbNvWjGDij5buq-92">
+        <mxCell id="v61mKVEbNvWjGDij5buq-103" value="OSS" style="whiteSpace=wrap;strokeWidth=2;fontSize=15;" vertex="1" parent="v61mKVEbNvWjGDij5buq-92">
           <mxGeometry x="414" y="510" width="86" height="49" as="geometry" />
         </mxCell>
         <mxCell id="v61mKVEbNvWjGDij5buq-104" value="桌面终端" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="v61mKVEbNvWjGDij5buq-92">
