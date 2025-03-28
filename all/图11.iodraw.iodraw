@@ -11,7 +11,7 @@
           <mxGeometry x="1580" y="270" width="290" height="240" as="geometry" />
         </mxCell>
         <mxCell id="v61mKVEbNvWjGDij5buq-92" value="总部" style="whiteSpace=wrap;strokeWidth=10;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="510" y="1030" width="1436" height="768" as="geometry" />
+          <mxGeometry x="510" y="1070" width="1436" height="768" as="geometry" />
         </mxCell>
         <mxCell id="v61mKVEbNvWjGDij5buq-93" value="模型库" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="v61mKVEbNvWjGDij5buq-92">
           <mxGeometry x="63" y="244" width="109" height="49" as="geometry" />
