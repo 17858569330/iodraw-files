@@ -14,7 +14,7 @@
           <mxGeometry x="63" y="244" width="109" height="49" as="geometry" />
         </mxCell>
         <mxCell id="v61mKVEbNvWjGDij5buq-94" value="" style="whiteSpace=wrap;strokeWidth=2;fontSize=20;" vertex="1" parent="v61mKVEbNvWjGDij5buq-92">
-          <mxGeometry x="28" y="207" width="553" height="532" as="geometry" />
+          <mxGeometry x="28" y="207" width="553" height="433" as="geometry" />
         </mxCell>
         <mxCell id="v61mKVEbNvWjGDij5buq-100" value="人工智能样本智能处理模块" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="v61mKVEbNvWjGDij5buq-92">
           <mxGeometry x="120" y="370" width="380" height="49" as="geometry" />
@@ -26,7 +26,7 @@
           <mxGeometry x="120" y="510" width="135" height="49" as="geometry" />
         </mxCell>
         <mxCell id="v61mKVEbNvWjGDij5buq-103" value="OSS" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="v61mKVEbNvWjGDij5buq-92">
-          <mxGeometry x="370" y="529" width="86" height="49" as="geometry" />
+          <mxGeometry x="414" y="510" width="86" height="49" as="geometry" />
         </mxCell>
         <mxCell id="v61mKVEbNvWjGDij5buq-104" value="桌面终端" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="v61mKVEbNvWjGDij5buq-92">
           <mxGeometry x="640" y="660" width="124" height="49" as="geometry" />
