@@ -16,15 +16,6 @@
         <mxCell id="v61mKVEbNvWjGDij5buq-94" value="云平台" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="v61mKVEbNvWjGDij5buq-92">
           <mxGeometry x="28" y="207" width="553" height="532" as="geometry" />
         </mxCell>
-        <mxCell id="v61mKVEbNvWjGDij5buq-96" value="协同办公系统" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="v61mKVEbNvWjGDij5buq-92">
-          <mxGeometry x="637" y="244" width="156" height="49" as="geometry" />
-        </mxCell>
-        <mxCell id="v61mKVEbNvWjGDij5buq-97" value="国网文库系统" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="v61mKVEbNvWjGDij5buq-92">
-          <mxGeometry x="940" y="460" width="156" height="49" as="geometry" />
-        </mxCell>
-        <mxCell id="v61mKVEbNvWjGDij5buq-98" value="舆情预警系统" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="v61mKVEbNvWjGDij5buq-92">
-          <mxGeometry x="1049" y="244" width="156" height="49" as="geometry" />
-        </mxCell>
         <mxCell id="v61mKVEbNvWjGDij5buq-99" value="16000系统" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="v61mKVEbNvWjGDij5buq-92">
           <mxGeometry x="1255" y="244" width="134" height="49" as="geometry" />
         </mxCell>
