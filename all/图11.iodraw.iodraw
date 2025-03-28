@@ -46,7 +46,7 @@
         <mxCell id="v61mKVEbNvWjGDij5buq-104" value="桌面终端" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="v61mKVEbNvWjGDij5buq-92">
           <mxGeometry x="229" y="653" width="124" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="v61mKVEbNvWjGDij5buq-105" value="云下" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="v61mKVEbNvWjGDij5buq-92">
+        <mxCell id="v61mKVEbNvWjGDij5buq-105" value="" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="v61mKVEbNvWjGDij5buq-92">
           <mxGeometry x="601" y="45" width="822" height="285" as="geometry" />
         </mxCell>
         <mxCell id="v61mKVEbNvWjGDij5buq-107" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.92;entryX=0.15;entryY=0;rounded=0;" edge="1" parent="v61mKVEbNvWjGDij5buq-92" source="v61mKVEbNvWjGDij5buq-95" target="v61mKVEbNvWjGDij5buq-97">
@@ -62,14 +62,6 @@
             <Array as="points">
               <mxPoint x="894" y="169" />
               <mxPoint x="894" y="207" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="v61mKVEbNvWjGDij5buq-109" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.47;exitY=0.99;entryX=0;entryY=0.24;rounded=0;" edge="1" parent="v61mKVEbNvWjGDij5buq-92" source="v61mKVEbNvWjGDij5buq-95" target="v61mKVEbNvWjGDij5buq-99">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="1001" y="169" />
-              <mxPoint x="1001" y="207" />
             </Array>
           </mxGeometry>
         </mxCell>
