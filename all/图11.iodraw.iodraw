@@ -64,7 +64,7 @@
         <mxCell id="v61mKVEbNvWjGDij5buq-183" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.twoWayArrow;dy=0.65;dx=22;" vertex="1" parent="v61mKVEbNvWjGDij5buq-92">
           <mxGeometry x="582" y="559" width="149" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="v61mKVEbNvWjGDij5buq-208" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;结构化数据存储&lt;/font&gt;" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;direction=west;" vertex="1" parent="v61mKVEbNvWjGDij5buq-92">
+        <mxCell id="v61mKVEbNvWjGDij5buq-208" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;结构化数据存储&lt;/font&gt;" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;direction=west;size=10;position=0.55;position2=0.4;" vertex="1" parent="v61mKVEbNvWjGDij5buq-92">
           <mxGeometry y="660" width="200" height="101" as="geometry" />
         </mxCell>
         <mxCell id="v61mKVEbNvWjGDij5buq-184" value="省市" style="whiteSpace=wrap;strokeWidth=10;verticalAlign=top;fontSize=30;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
