@@ -97,6 +97,27 @@
         <mxCell id="v61mKVEbNvWjGDij5buq-238" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;本系统主要涉及桌面终端从云平台上传或者下载模型以及数据等非结构化类型数据&lt;/span&gt;" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;direction=west;size=10;position=0.55;position2=0.45;" parent="v61mKVEbNvWjGDij5buq-184" vertex="1">
           <mxGeometry x="440" y="600" width="390" height="110" as="geometry" />
         </mxCell>
+        <mxCell id="trQF1PDlpNfxSEzQ2k9J-8" value="模型库" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="v61mKVEbNvWjGDij5buq-184">
+          <mxGeometry x="81" y="244" width="109" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="trQF1PDlpNfxSEzQ2k9J-9" value="统一密码服务平台" style="whiteSpace=wrap;strokeWidth=2;fontSize=15;" vertex="1" parent="v61mKVEbNvWjGDij5buq-184">
+          <mxGeometry x="388" y="244" width="189" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="trQF1PDlpNfxSEzQ2k9J-10" value="模型库" style="whiteSpace=wrap;strokeWidth=2;fontSize=15;" vertex="1" parent="v61mKVEbNvWjGDij5buq-184">
+          <mxGeometry x="80" y="244" width="110" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="trQF1PDlpNfxSEzQ2k9J-11" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.twoWayArrow;dy=0.65;dx=22;direction=south;" vertex="1" parent="v61mKVEbNvWjGDij5buq-184">
+          <mxGeometry x="138" y="295" width="37.5" height="75" as="geometry" />
+        </mxCell>
+        <mxCell id="trQF1PDlpNfxSEzQ2k9J-12" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.6;dx=40;notch=5;direction=south;" vertex="1" parent="v61mKVEbNvWjGDij5buq-184">
+          <mxGeometry x="465" y="291" width="35" height="77" as="geometry" />
+        </mxCell>
+        <mxCell id="trQF1PDlpNfxSEzQ2k9J-13" value="样本库" style="whiteSpace=wrap;strokeWidth=2;fontSize=15;" vertex="1" parent="v61mKVEbNvWjGDij5buq-184">
+          <mxGeometry x="228" y="244" width="110" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="trQF1PDlpNfxSEzQ2k9J-14" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.twoWayArrow;dy=0.65;dx=22;direction=south;" vertex="1" parent="v61mKVEbNvWjGDij5buq-184">
+          <mxGeometry x="264.25" y="293" width="37.5" height="75" as="geometry" />
+        </mxCell>
         <mxCell id="v61mKVEbNvWjGDij5buq-206" style="edgeStyle=orthogonalEdgeStyle;shape=flexArrow;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;strokeWidth=5;endArrow=block;endFill=0;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" source="v61mKVEbNvWjGDij5buq-177" target="v61mKVEbNvWjGDij5buq-186" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
@@ -126,27 +147,6 @@
         </mxCell>
         <mxCell id="trQF1PDlpNfxSEzQ2k9J-7" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.twoWayArrow;dy=0.65;dx=22;direction=south;" vertex="1" parent="1">
           <mxGeometry x="786.25" y="1364" width="37.5" height="75" as="geometry" />
-        </mxCell>
-        <mxCell id="trQF1PDlpNfxSEzQ2k9J-8" value="模型库" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="613" y="1354" width="109" height="49" as="geometry" />
-        </mxCell>
-        <mxCell id="trQF1PDlpNfxSEzQ2k9J-9" value="统一密码服务平台" style="whiteSpace=wrap;strokeWidth=2;fontSize=15;" vertex="1" parent="1">
-          <mxGeometry x="920" y="1354" width="189" height="49" as="geometry" />
-        </mxCell>
-        <mxCell id="trQF1PDlpNfxSEzQ2k9J-10" value="模型库" style="whiteSpace=wrap;strokeWidth=2;fontSize=15;" vertex="1" parent="1">
-          <mxGeometry x="612" y="1354" width="110" height="49" as="geometry" />
-        </mxCell>
-        <mxCell id="trQF1PDlpNfxSEzQ2k9J-11" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.twoWayArrow;dy=0.65;dx=22;direction=south;" vertex="1" parent="1">
-          <mxGeometry x="670" y="1405" width="37.5" height="75" as="geometry" />
-        </mxCell>
-        <mxCell id="trQF1PDlpNfxSEzQ2k9J-12" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.6;dx=40;notch=5;direction=south;" vertex="1" parent="1">
-          <mxGeometry x="997" y="1401" width="35" height="77" as="geometry" />
-        </mxCell>
-        <mxCell id="trQF1PDlpNfxSEzQ2k9J-13" value="样本库" style="whiteSpace=wrap;strokeWidth=2;fontSize=15;" vertex="1" parent="1">
-          <mxGeometry x="760" y="1354" width="110" height="49" as="geometry" />
-        </mxCell>
-        <mxCell id="trQF1PDlpNfxSEzQ2k9J-14" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.twoWayArrow;dy=0.65;dx=22;direction=south;" vertex="1" parent="1">
-          <mxGeometry x="796.25" y="1403" width="37.5" height="75" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
