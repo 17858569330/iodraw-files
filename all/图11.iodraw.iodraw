@@ -17,10 +17,10 @@
           <mxGeometry x="28" y="207" width="553" height="532" as="geometry" />
         </mxCell>
         <mxCell id="v61mKVEbNvWjGDij5buq-100" value="人工智能样本智能处理模块" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="v61mKVEbNvWjGDij5buq-92">
-          <mxGeometry x="220" y="359.5" width="252" height="49" as="geometry" />
+          <mxGeometry x="178.5" y="370" width="252" height="49" as="geometry" />
         </mxCell>
         <mxCell id="v61mKVEbNvWjGDij5buq-101" value="统一密码服务平台" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="v61mKVEbNvWjGDij5buq-92">
-          <mxGeometry x="330" y="244" width="189" height="49" as="geometry" />
+          <mxGeometry x="340" y="244" width="189" height="49" as="geometry" />
         </mxCell>
         <mxCell id="v61mKVEbNvWjGDij5buq-102" value="RDS数据库" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="v61mKVEbNvWjGDij5buq-92">
           <mxGeometry x="150" y="529" width="135" height="49" as="geometry" />
@@ -32,7 +32,7 @@
           <mxGeometry x="640" y="660" width="124" height="49" as="geometry" />
         </mxCell>
         <mxCell id="v61mKVEbNvWjGDij5buq-161" value="模型库" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="v61mKVEbNvWjGDij5buq-92">
-          <mxGeometry x="190" y="244" width="110" height="49" as="geometry" />
+          <mxGeometry x="150" y="244" width="110" height="49" as="geometry" />
         </mxCell>
         <mxCell id="v61mKVEbNvWjGDij5buq-163" value="&lt;font style=&quot;font-size: 25px;&quot;&gt;云平台&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="v61mKVEbNvWjGDij5buq-92">
           <mxGeometry x="250" y="679" width="90" height="30" as="geometry" />
