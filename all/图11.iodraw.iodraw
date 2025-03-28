@@ -1,14 +1,14 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36" version="24.7.17">
   <diagram name="第 1 页" id="8hgyWsdAbwldRM5Ld7ce">
-    <mxGraphModel dx="2220" dy="2293" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2220" dy="1124" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="v61mKVEbNvWjGDij5buq-91" value="省市" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="20" y="387" width="64" height="35" as="geometry" />
         </mxCell>
-        <mxCell id="v61mKVEbNvWjGDij5buq-174" value="" style="swimlane;startSize=0;strokeWidth=13;" vertex="1" parent="1">
-          <mxGeometry x="1370" y="220" width="926" height="528" as="geometry" />
+        <mxCell id="v61mKVEbNvWjGDij5buq-174" value="" style="swimlane;startSize=0;strokeWidth=7;" vertex="1" parent="1">
+          <mxGeometry x="1050" y="1660" width="926" height="998" as="geometry" />
         </mxCell>
         <mxCell id="v61mKVEbNvWjGDij5buq-92" value="总部" style="whiteSpace=wrap;strokeWidth=10;verticalAlign=top;" vertex="1" parent="v61mKVEbNvWjGDij5buq-174">
           <mxGeometry x="-510" y="-240" width="1436" height="768" as="geometry" />
