@@ -67,6 +67,9 @@
         <mxCell id="v61mKVEbNvWjGDij5buq-241" value="样本库" style="whiteSpace=wrap;strokeWidth=2;fontSize=15;" vertex="1" parent="v61mKVEbNvWjGDij5buq-92">
           <mxGeometry x="210" y="244" width="110" height="49" as="geometry" />
         </mxCell>
+        <mxCell id="v61mKVEbNvWjGDij5buq-242" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.twoWayArrow;dy=0.65;dx=22;direction=south;" vertex="1" parent="v61mKVEbNvWjGDij5buq-92">
+          <mxGeometry x="246.25" y="293" width="37.5" height="75" as="geometry" />
+        </mxCell>
         <mxCell id="v61mKVEbNvWjGDij5buq-184" value="省市" style="whiteSpace=wrap;strokeWidth=10;verticalAlign=top;fontSize=30;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="500" y="1980" width="1436" height="850" as="geometry" />
         </mxCell>
