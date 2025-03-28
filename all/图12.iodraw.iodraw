@@ -46,9 +46,6 @@
         <mxCell id="v61mKVEbNvWjGDij5buq-183" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.twoWayArrow;dy=0.65;dx=22;" parent="v61mKVEbNvWjGDij5buq-92" vertex="1">
           <mxGeometry x="582" y="559" width="149" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="v61mKVEbNvWjGDij5buq-240" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;本系统主要涉及桌面终端从云平台上传或者下载模型以及数据等非结构化类型数据&lt;/span&gt;" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;direction=west;size=10;position=0.55;position2=0.45;" parent="v61mKVEbNvWjGDij5buq-92" vertex="1">
-          <mxGeometry x="420.5" y="600" width="390" height="110" as="geometry" />
-        </mxCell>
         <mxCell id="v61mKVEbNvWjGDij5buq-184" value="省市" style="whiteSpace=wrap;strokeWidth=10;verticalAlign=top;fontSize=30;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="500" y="1980" width="1436" height="850" as="geometry" />
         </mxCell>
