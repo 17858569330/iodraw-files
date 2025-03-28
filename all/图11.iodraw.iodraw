@@ -20,7 +20,7 @@
           <mxGeometry x="637" y="244" width="156" height="49" as="geometry" />
         </mxCell>
         <mxCell id="v61mKVEbNvWjGDij5buq-97" value="国网文库系统" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="v61mKVEbNvWjGDij5buq-92">
-          <mxGeometry x="843" y="244" width="156" height="49" as="geometry" />
+          <mxGeometry x="940" y="460" width="156" height="49" as="geometry" />
         </mxCell>
         <mxCell id="v61mKVEbNvWjGDij5buq-98" value="舆情预警系统" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="v61mKVEbNvWjGDij5buq-92">
           <mxGeometry x="1049" y="244" width="156" height="49" as="geometry" />
@@ -144,9 +144,6 @@
               <mxPoint x="298" y="615" />
             </Array>
           </mxGeometry>
-        </mxCell>
-        <mxCell id="v61mKVEbNvWjGDij5buq-105" value="" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1014" y="720" width="219" height="375" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
