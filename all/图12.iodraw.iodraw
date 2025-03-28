@@ -80,13 +80,10 @@
           <mxGeometry x="731" y="207" width="279" height="279" as="geometry" />
         </mxCell>
         <mxCell id="v61mKVEbNvWjGDij5buq-199" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;统一权限平台&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="v61mKVEbNvWjGDij5buq-184" vertex="1">
-          <mxGeometry x="810.5" y="260" width="120" height="60" as="geometry" />
+          <mxGeometry x="810.5" y="308" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="v61mKVEbNvWjGDij5buq-200" value="&lt;font style=&quot;font-size: 25px;&quot;&gt;云下&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="v61mKVEbNvWjGDij5buq-184" vertex="1">
           <mxGeometry x="840.5" y="440" width="60" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="v61mKVEbNvWjGDij5buq-201" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;I6000系统&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="v61mKVEbNvWjGDij5buq-184" vertex="1">
-          <mxGeometry x="810.5" y="354" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="v61mKVEbNvWjGDij5buq-202" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.twoWayArrow;dy=0.65;dx=22;" parent="v61mKVEbNvWjGDij5buq-184" vertex="1">
           <mxGeometry x="581" y="308" width="149" height="60" as="geometry" />
