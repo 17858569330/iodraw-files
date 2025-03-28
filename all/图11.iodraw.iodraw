@@ -8,7 +8,7 @@
           <mxGeometry x="20" y="387" width="64" height="35" as="geometry" />
         </mxCell>
         <mxCell id="v61mKVEbNvWjGDij5buq-92" value="总部" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="490" y="130" width="1436" height="768" as="geometry" />
+          <mxGeometry x="390" y="30" width="1436" height="768" as="geometry" />
         </mxCell>
         <mxCell id="v61mKVEbNvWjGDij5buq-93" value="模型库" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="v61mKVEbNvWjGDij5buq-92">
           <mxGeometry x="63" y="244" width="109" height="49" as="geometry" />
