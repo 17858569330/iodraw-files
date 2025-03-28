@@ -20,7 +20,7 @@
           <mxGeometry x="215" y="405" width="252" height="49" as="geometry" />
         </mxCell>
         <mxCell id="v61mKVEbNvWjGDij5buq-101" value="统一密码服务平台" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="v61mKVEbNvWjGDij5buq-92">
-          <mxGeometry x="222" y="244" width="189" height="49" as="geometry" />
+          <mxGeometry x="330" y="244" width="189" height="49" as="geometry" />
         </mxCell>
         <mxCell id="v61mKVEbNvWjGDij5buq-102" value="RDS数据库" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="v61mKVEbNvWjGDij5buq-92">
           <mxGeometry x="150" y="529" width="135" height="49" as="geometry" />
@@ -102,7 +102,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="v61mKVEbNvWjGDij5buq-161" value="模型库" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="v61mKVEbNvWjGDij5buq-92">
-          <mxGeometry x="50" y="244" width="110" height="49" as="geometry" />
+          <mxGeometry x="62.5" y="244" width="110" height="49" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
