@@ -65,7 +65,7 @@
           <mxGeometry x="582" y="559" width="149" height="60" as="geometry" />
         </mxCell>
         <mxCell id="v61mKVEbNvWjGDij5buq-208" value="" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;direction=west;" vertex="1" parent="v61mKVEbNvWjGDij5buq-92">
-          <mxGeometry x="110" y="550" width="120" height="80" as="geometry" />
+          <mxGeometry x="-90" y="560" width="290" height="120" as="geometry" />
         </mxCell>
         <mxCell id="v61mKVEbNvWjGDij5buq-184" value="省市" style="whiteSpace=wrap;strokeWidth=10;verticalAlign=top;fontSize=30;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="510" y="1980" width="1436" height="768" as="geometry" />
