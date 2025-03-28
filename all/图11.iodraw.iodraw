@@ -101,11 +101,8 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="v61mKVEbNvWjGDij5buq-141" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="v61mKVEbNvWjGDij5buq-92">
-          <mxGeometry x="63" y="233" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="v61mKVEbNvWjGDij5buq-161" value="统一密码服务平台" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="902" y="244" width="189" height="49" as="geometry" />
+        <mxCell id="v61mKVEbNvWjGDij5buq-161" value="模型库" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="v61mKVEbNvWjGDij5buq-92">
+          <mxGeometry x="50" y="244" width="110" height="49" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
