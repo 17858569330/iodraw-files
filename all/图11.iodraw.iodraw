@@ -7,7 +7,7 @@
         <mxCell id="v61mKVEbNvWjGDij5buq-91" value="省市" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="20" y="387" width="64" height="35" as="geometry" />
         </mxCell>
-        <mxCell id="v61mKVEbNvWjGDij5buq-174" value="" style="swimlane;startSize=0;" vertex="1" parent="1">
+        <mxCell id="v61mKVEbNvWjGDij5buq-174" value="" style="swimlane;startSize=0;strokeWidth=5;" vertex="1" parent="1">
           <mxGeometry x="1370" y="220" width="926" height="528" as="geometry" />
         </mxCell>
         <mxCell id="v61mKVEbNvWjGDij5buq-92" value="总部" style="whiteSpace=wrap;strokeWidth=10;verticalAlign=top;" vertex="1" parent="v61mKVEbNvWjGDij5buq-174">
