@@ -130,6 +130,27 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="O7Gza5e_lacyLTnY421Q-2" value="模型库" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="583" y="1316" width="109" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="O7Gza5e_lacyLTnY421Q-3" value="统一密码服务平台" style="whiteSpace=wrap;strokeWidth=2;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="890" y="1316" width="189" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="O7Gza5e_lacyLTnY421Q-4" value="模型库" style="whiteSpace=wrap;strokeWidth=2;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="582" y="1316" width="110" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="O7Gza5e_lacyLTnY421Q-5" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.twoWayArrow;dy=0.65;dx=22;direction=south;" vertex="1" parent="1">
+          <mxGeometry x="640" y="1367" width="37.5" height="75" as="geometry" />
+        </mxCell>
+        <mxCell id="O7Gza5e_lacyLTnY421Q-6" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.6;dx=40;notch=5;direction=south;" vertex="1" parent="1">
+          <mxGeometry x="967" y="1363" width="35" height="77" as="geometry" />
+        </mxCell>
+        <mxCell id="O7Gza5e_lacyLTnY421Q-7" value="样本库" style="whiteSpace=wrap;strokeWidth=2;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="730" y="1316" width="110" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="O7Gza5e_lacyLTnY421Q-8" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.twoWayArrow;dy=0.65;dx=22;direction=south;" vertex="1" parent="1">
+          <mxGeometry x="766.25" y="1365" width="37.5" height="75" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
