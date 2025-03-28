@@ -16,9 +16,6 @@
         <mxCell id="v61mKVEbNvWjGDij5buq-94" value="云平台" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="v61mKVEbNvWjGDij5buq-92">
           <mxGeometry x="28" y="207" width="553" height="532" as="geometry" />
         </mxCell>
-        <mxCell id="v61mKVEbNvWjGDij5buq-95" value="统一权限平台" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="v61mKVEbNvWjGDij5buq-92">
-          <mxGeometry x="934" y="83" width="157" height="49" as="geometry" />
-        </mxCell>
         <mxCell id="v61mKVEbNvWjGDij5buq-96" value="协同办公系统" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="v61mKVEbNvWjGDij5buq-92">
           <mxGeometry x="637" y="244" width="156" height="49" as="geometry" />
         </mxCell>
@@ -47,7 +44,7 @@
           <mxGeometry x="229" y="653" width="124" height="49" as="geometry" />
         </mxCell>
         <mxCell id="v61mKVEbNvWjGDij5buq-105" value="" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="v61mKVEbNvWjGDij5buq-92">
-          <mxGeometry x="601" y="45" width="822" height="285" as="geometry" />
+          <mxGeometry x="601" y="45" width="219" height="375" as="geometry" />
         </mxCell>
         <mxCell id="v61mKVEbNvWjGDij5buq-110" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.37;exitY=1;entryX=0.1;entryY=0.01;rounded=0;" edge="1" parent="v61mKVEbNvWjGDij5buq-92" source="v61mKVEbNvWjGDij5buq-93" target="v61mKVEbNvWjGDij5buq-100">
           <mxGeometry relative="1" as="geometry">
@@ -98,28 +95,6 @@
             <Array as="points">
               <mxPoint x="278" y="615" />
             </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="v61mKVEbNvWjGDij5buq-123" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.9;entryX=0.82;entryY=0;rounded=0;" edge="1" parent="v61mKVEbNvWjGDij5buq-92" source="v61mKVEbNvWjGDij5buq-95" target="v61mKVEbNvWjGDij5buq-98">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="1255" y="169" />
-              <mxPoint x="1255" y="207" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="v61mKVEbNvWjGDij5buq-137" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="v61mKVEbNvWjGDij5buq-123">
-          <mxGeometry x="-0.895" y="-1" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="v61mKVEbNvWjGDij5buq-124" value="" style="curved=1;startArrow=none;endArrow=block;entryX=0.62;entryY=0;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="v61mKVEbNvWjGDij5buq-92" target="v61mKVEbNvWjGDij5buq-99">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="1363" y="169" />
-              <mxPoint x="1363" y="207" />
-            </Array>
-            <mxPoint x="1072" y="113" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="v61mKVEbNvWjGDij5buq-125" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.82;exitY=1;entryX=0.29;entryY=0.01;rounded=0;" edge="1" parent="v61mKVEbNvWjGDij5buq-92" source="v61mKVEbNvWjGDij5buq-93" target="v61mKVEbNvWjGDij5buq-100">
