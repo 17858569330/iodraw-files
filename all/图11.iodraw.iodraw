@@ -31,13 +31,6 @@
         <mxCell id="v61mKVEbNvWjGDij5buq-104" value="桌面终端" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="v61mKVEbNvWjGDij5buq-92">
           <mxGeometry x="229" y="653" width="124" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="v61mKVEbNvWjGDij5buq-112" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.12;exitY=1;entryX=0.15;entryY=0;rounded=0;" edge="1" parent="v61mKVEbNvWjGDij5buq-92" source="v61mKVEbNvWjGDij5buq-100" target="v61mKVEbNvWjGDij5buq-102">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="97" y="492" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="v61mKVEbNvWjGDij5buq-113" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.26;exitY=1;entryX=0;entryY=0.26;rounded=0;" edge="1" parent="v61mKVEbNvWjGDij5buq-92" source="v61mKVEbNvWjGDij5buq-100" target="v61mKVEbNvWjGDij5buq-103">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
