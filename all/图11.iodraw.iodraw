@@ -127,14 +127,15 @@
         <mxCell id="v61mKVEbNvWjGDij5buq-238" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;本系统主要涉及桌面终端从云平台上传或者下载模型以及数据等非结构化类型数据&lt;/span&gt;" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;direction=west;size=10;position=0.55;position2=0.45;" vertex="1" parent="v61mKVEbNvWjGDij5buq-184">
           <mxGeometry x="440" y="600" width="390" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="v61mKVEbNvWjGDij5buq-206" style="edgeStyle=orthogonalEdgeStyle;shape=flexArrow;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=5;endArrow=block;endFill=0;fillColor=#d5e8d4;strokeColor=#82b366;" edge="1" parent="v61mKVEbNvWjGDij5buq-184">
+        <mxCell id="v61mKVEbNvWjGDij5buq-206" style="edgeStyle=orthogonalEdgeStyle;shape=flexArrow;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;strokeWidth=5;endArrow=block;endFill=0;fillColor=#d5e8d4;strokeColor=#82b366;" edge="1" parent="v61mKVEbNvWjGDij5buq-184">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1020" y="-580" as="sourcePoint" />
-            <mxPoint x="304.5" y="190.5" as="targetPoint" />
+            <mxPoint x="315" y="160" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="1190" y="-580.5" />
-              <mxPoint x="1190" y="-96.5" />
-              <mxPoint x="315" y="-96.5" />
+              <mxPoint x="1190" y="-580" />
+              <mxPoint x="1190" y="-96" />
+              <mxPoint x="315" y="-96" />
+              <mxPoint x="315" y="207" />
             </Array>
           </mxGeometry>
         </mxCell>
