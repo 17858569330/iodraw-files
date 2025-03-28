@@ -29,7 +29,7 @@
           <mxGeometry x="414" y="510" width="86" height="49" as="geometry" />
         </mxCell>
         <mxCell id="v61mKVEbNvWjGDij5buq-104" value="桌面终端" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="v61mKVEbNvWjGDij5buq-92">
-          <mxGeometry x="640" y="660" width="124" height="49" as="geometry" />
+          <mxGeometry x="720" y="570" width="124" height="49" as="geometry" />
         </mxCell>
         <mxCell id="v61mKVEbNvWjGDij5buq-161" value="模型库" style="whiteSpace=wrap;strokeWidth=2;fontSize=15;" vertex="1" parent="v61mKVEbNvWjGDij5buq-92">
           <mxGeometry x="120" y="244" width="110" height="49" as="geometry" />
@@ -47,7 +47,7 @@
           <mxGeometry x="438.25" y="419" width="37.5" height="91" as="geometry" />
         </mxCell>
         <mxCell id="v61mKVEbNvWjGDij5buq-172" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.6;dx=40;notch=0;direction=south;" vertex="1" parent="v61mKVEbNvWjGDij5buq-92">
-          <mxGeometry x="388" y="293" width="35" height="100" as="geometry" />
+          <mxGeometry x="388" y="293" width="35" height="77" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
