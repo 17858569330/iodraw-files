@@ -8,7 +8,7 @@
           <mxGeometry x="414" y="1070" width="1436" height="770" as="geometry" />
         </mxCell>
         <mxCell id="v61mKVEbNvWjGDij5buq-94" value="" style="whiteSpace=wrap;strokeWidth=5;fontSize=20;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="v61mKVEbNvWjGDij5buq-92" vertex="1">
-          <mxGeometry x="235" y="266" width="553" height="150" as="geometry" />
+          <mxGeometry x="235" y="266" width="553" height="434" as="geometry" />
         </mxCell>
         <mxCell id="v61mKVEbNvWjGDij5buq-102" value="RDS数据库" style="whiteSpace=wrap;strokeWidth=2;fontSize=18;" parent="v61mKVEbNvWjGDij5buq-92" vertex="1">
           <mxGeometry x="322" y="560" width="135" height="49" as="geometry" />
