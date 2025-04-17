@@ -22,9 +22,6 @@
         <mxCell id="v61mKVEbNvWjGDij5buq-182" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.twoWayArrow;dy=0.65;dx=22;" parent="v61mKVEbNvWjGDij5buq-92" vertex="1">
           <mxGeometry x="665" y="196" width="149" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="trQF1PDlpNfxSEzQ2k9J-2" value="统一密码服务平台" style="whiteSpace=wrap;strokeWidth=2;fontSize=18;" parent="v61mKVEbNvWjGDij5buq-92" vertex="1">
-          <mxGeometry x="830" y="671" width="189" height="49" as="geometry" />
-        </mxCell>
         <mxCell id="8J4PdL0vconWBFRwew08-12" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="v61mKVEbNvWjGDij5buq-92">
           <mxGeometry x="168" y="200" width="443" height="271" as="geometry" />
         </mxCell>
@@ -54,6 +51,9 @@
         </mxCell>
         <mxCell id="8J4PdL0vconWBFRwew08-38" value="" style="whiteSpace=wrap;html=1;aspect=fixed;strokeWidth=5;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="v61mKVEbNvWjGDij5buq-92">
           <mxGeometry x="970" y="411" width="330" height="330" as="geometry" />
+        </mxCell>
+        <mxCell id="8J4PdL0vconWBFRwew08-39" value="统一密码服务平台" style="whiteSpace=wrap;strokeWidth=2;fontSize=18;" vertex="1" parent="v61mKVEbNvWjGDij5buq-92">
+          <mxGeometry x="1031" y="591" width="189" height="49" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
