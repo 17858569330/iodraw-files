@@ -23,7 +23,7 @@
           <mxGeometry x="788" y="280" width="149" height="60" as="geometry" />
         </mxCell>
         <mxCell id="trQF1PDlpNfxSEzQ2k9J-2" value="统一密码服务平台" style="whiteSpace=wrap;strokeWidth=2;fontSize=18;" parent="v61mKVEbNvWjGDij5buq-92" vertex="1">
-          <mxGeometry x="1018.25" y="373" width="189" height="49" as="geometry" />
+          <mxGeometry x="1053.5" y="442" width="189" height="49" as="geometry" />
         </mxCell>
         <mxCell id="8J4PdL0vconWBFRwew08-6" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.bendDoubleArrow;dy=15;dx=38;arrowHead=55;rounded=0;direction=south;" vertex="1" parent="v61mKVEbNvWjGDij5buq-92">
           <mxGeometry x="788" y="373" width="122" height="187" as="geometry" />
@@ -50,7 +50,7 @@
           <mxGeometry x="1069.75" y="180" width="86" height="49" as="geometry" />
         </mxCell>
         <mxCell id="8J4PdL0vconWBFRwew08-36" value="RDS数据库" style="whiteSpace=wrap;strokeWidth=2;fontSize=18;" vertex="1" parent="v61mKVEbNvWjGDij5buq-92">
-          <mxGeometry x="540" y="590" width="135" height="49" as="geometry" />
+          <mxGeometry x="1080.5" y="380" width="135" height="49" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
