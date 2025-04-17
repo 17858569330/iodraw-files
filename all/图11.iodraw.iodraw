@@ -43,6 +43,9 @@
         <mxCell id="trQF1PDlpNfxSEzQ2k9J-6" value="样本库" style="whiteSpace=wrap;strokeWidth=2;fontSize=18;" parent="v61mKVEbNvWjGDij5buq-92" vertex="1">
           <mxGeometry x="640" y="297" width="110" height="49" as="geometry" />
         </mxCell>
+        <mxCell id="8J4PdL0vconWBFRwew08-6" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.bendDoubleArrow;dy=15;dx=38;arrowHead=55;rounded=0;direction=south;" vertex="1" parent="v61mKVEbNvWjGDij5buq-92">
+          <mxGeometry x="730" y="460" width="100" height="100" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
