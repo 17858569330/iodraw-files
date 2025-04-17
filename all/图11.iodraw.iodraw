@@ -23,7 +23,7 @@
           <mxGeometry x="730" y="564.5" width="290" height="49" as="geometry" />
         </mxCell>
         <mxCell id="v61mKVEbNvWjGDij5buq-163" value="&lt;span style=&quot;font-size: 25px;&quot;&gt;人工智能样本智能处理模块&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="v61mKVEbNvWjGDij5buq-92" vertex="1">
-          <mxGeometry x="70" y="600" width="275" height="30" as="geometry" />
+          <mxGeometry x="70" y="600" width="370" height="30" as="geometry" />
         </mxCell>
         <mxCell id="v61mKVEbNvWjGDij5buq-168" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.twoWayArrow;dy=0.65;dx=22;direction=south;" parent="v61mKVEbNvWjGDij5buq-92" vertex="1">
           <mxGeometry x="170" y="419" width="37.5" height="91" as="geometry" />
