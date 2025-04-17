@@ -20,7 +20,7 @@
           <mxGeometry x="740" y="560" width="290" height="49" as="geometry" />
         </mxCell>
         <mxCell id="v61mKVEbNvWjGDij5buq-163" value="&lt;span style=&quot;font-size: 25px;&quot;&gt;人工智能样本智能处理模块&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="v61mKVEbNvWjGDij5buq-92" vertex="1">
-          <mxGeometry x="326.5" y="371" width="370" height="30" as="geometry" />
+          <mxGeometry x="203.5" y="480" width="370" height="30" as="geometry" />
         </mxCell>
         <mxCell id="v61mKVEbNvWjGDij5buq-177" value="" style="whiteSpace=wrap;html=1;aspect=fixed;strokeWidth=5;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="v61mKVEbNvWjGDij5buq-92" vertex="1">
           <mxGeometry x="938" y="170.5" width="279" height="279" as="geometry" />
@@ -52,8 +52,8 @@
         <mxCell id="8J4PdL0vconWBFRwew08-10" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.twoWayArrow;dy=0.65;dx=22;direction=south;" vertex="1" parent="v61mKVEbNvWjGDij5buq-92">
           <mxGeometry x="506" y="166" width="40" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="8J4PdL0vconWBFRwew08-12" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="v61mKVEbNvWjGDij5buq-92">
-          <mxGeometry x="180" y="186" width="280" height="194" as="geometry" />
+        <mxCell id="8J4PdL0vconWBFRwew08-12" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="596" y="1780" width="443" height="271" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
