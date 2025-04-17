@@ -73,8 +73,8 @@
         <mxCell id="8J4PdL0vconWBFRwew08-83" value="样本管理模块" style="whiteSpace=wrap;strokeWidth=2;fontSize=18;" vertex="1" parent="v61mKVEbNvWjGDij5buq-92">
           <mxGeometry x="476" y="380" width="109" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="8J4PdL0vconWBFRwew08-85" value="" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;direction=south;position2=0.06;" vertex="1" parent="v61mKVEbNvWjGDij5buq-92">
-          <mxGeometry x="370" y="560" width="327" height="63.5" as="geometry" />
+        <mxCell id="8J4PdL0vconWBFRwew08-85" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;本系统主要涉及桌面终端从云平台上传或下载模型及数据等非结构化数据。&lt;/font&gt;" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;direction=south;position2=0.06;" vertex="1" parent="v61mKVEbNvWjGDij5buq-92">
+          <mxGeometry x="370" y="560" width="420" height="63.5" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
