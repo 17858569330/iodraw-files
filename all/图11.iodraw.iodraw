@@ -65,9 +65,9 @@
           <mxGeometry x="194" y="380" width="109" height="49" as="geometry" />
         </mxCell>
         <mxCell id="8J4PdL0vconWBFRwew08-81" value="目标检测模块" style="whiteSpace=wrap;strokeWidth=2;fontSize=18;" vertex="1" parent="v61mKVEbNvWjGDij5buq-92">
-          <mxGeometry x="344" y="391" width="109" height="49" as="geometry" />
+          <mxGeometry x="344" y="380" width="109" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="8J4PdL0vconWBFRwew08-82" value="模型库" style="whiteSpace=wrap;strokeWidth=2;fontSize=18;" vertex="1" parent="v61mKVEbNvWjGDij5buq-92">
+        <mxCell id="8J4PdL0vconWBFRwew08-82" value="样本/模型上传" style="whiteSpace=wrap;strokeWidth=2;fontSize=18;" vertex="1" parent="v61mKVEbNvWjGDij5buq-92">
           <mxGeometry x="476" y="297" width="109" height="49" as="geometry" />
         </mxCell>
       </root>
