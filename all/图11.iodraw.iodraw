@@ -55,14 +55,8 @@
         <mxCell id="trQF1PDlpNfxSEzQ2k9J-3" value="模型库" style="whiteSpace=wrap;strokeWidth=2;fontSize=15;" parent="v61mKVEbNvWjGDij5buq-92" vertex="1">
           <mxGeometry x="287" y="248" width="110" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="trQF1PDlpNfxSEzQ2k9J-5" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.6;dx=40;notch=5;direction=south;" parent="v61mKVEbNvWjGDij5buq-92" vertex="1">
-          <mxGeometry x="672" y="295" width="35" height="77" as="geometry" />
-        </mxCell>
         <mxCell id="trQF1PDlpNfxSEzQ2k9J-6" value="样本库" style="whiteSpace=wrap;strokeWidth=2;fontSize=15;" parent="v61mKVEbNvWjGDij5buq-92" vertex="1">
           <mxGeometry x="435" y="248" width="110" height="49" as="geometry" />
-        </mxCell>
-        <mxCell id="trQF1PDlpNfxSEzQ2k9J-7" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.twoWayArrow;dy=0.65;dx=22;direction=south;" parent="v61mKVEbNvWjGDij5buq-92" vertex="1">
-          <mxGeometry x="471.25" y="297" width="37.5" height="75" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
