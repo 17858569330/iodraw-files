@@ -5,7 +5,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="v61mKVEbNvWjGDij5buq-92" value="管理信息大区" style="whiteSpace=wrap;strokeWidth=11;verticalAlign=top;fontSize=30;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
-          <mxGeometry x="120" y="1150" width="1436" height="781" as="geometry" />
+          <mxGeometry x="70" y="1150" width="1436" height="781" as="geometry" />
         </mxCell>
         <mxCell id="v61mKVEbNvWjGDij5buq-94" value="" style="whiteSpace=wrap;strokeWidth=5;fontSize=20;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="v61mKVEbNvWjGDij5buq-92" vertex="1">
           <mxGeometry x="112" y="93" width="553" height="434" as="geometry" />
@@ -35,7 +35,7 @@
           <mxGeometry x="220" y="297" width="109" height="49" as="geometry" />
         </mxCell>
         <mxCell id="8J4PdL0vconWBFRwew08-32" value="样本库" style="whiteSpace=wrap;strokeWidth=2;fontSize=18;" vertex="1" parent="v61mKVEbNvWjGDij5buq-92">
-          <mxGeometry x="438.5" y="297" width="110" height="49" as="geometry" />
+          <mxGeometry x="370" y="297" width="110" height="49" as="geometry" />
         </mxCell>
         <mxCell id="8J4PdL0vconWBFRwew08-33" value="&lt;font style=&quot;font-size: 25px;&quot;&gt;三级域&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="v61mKVEbNvWjGDij5buq-92">
           <mxGeometry x="919" y="81" width="120" height="30" as="geometry" />
