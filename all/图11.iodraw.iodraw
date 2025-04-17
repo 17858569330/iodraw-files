@@ -5,7 +5,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="v61mKVEbNvWjGDij5buq-92" value="管理信息大区" style="whiteSpace=wrap;strokeWidth=10;verticalAlign=top;fontSize=30;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
-          <mxGeometry x="414" y="1070" width="1436" height="781" as="geometry" />
+          <mxGeometry x="420" y="1010" width="1436" height="781" as="geometry" />
         </mxCell>
         <mxCell id="v61mKVEbNvWjGDij5buq-94" value="" style="whiteSpace=wrap;strokeWidth=5;fontSize=20;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="v61mKVEbNvWjGDij5buq-92" vertex="1">
           <mxGeometry x="112" y="93" width="553" height="434" as="geometry" />
@@ -20,7 +20,7 @@
           <mxGeometry x="740" y="560" width="290" height="49" as="geometry" />
         </mxCell>
         <mxCell id="v61mKVEbNvWjGDij5buq-163" value="&lt;span style=&quot;font-size: 25px;&quot;&gt;人工智能样本智能处理模块&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="v61mKVEbNvWjGDij5buq-92" vertex="1">
-          <mxGeometry x="203.5" y="480" width="370" height="30" as="geometry" />
+          <mxGeometry x="202.5" y="460" width="370" height="30" as="geometry" />
         </mxCell>
         <mxCell id="v61mKVEbNvWjGDij5buq-177" value="" style="whiteSpace=wrap;html=1;aspect=fixed;strokeWidth=5;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="v61mKVEbNvWjGDij5buq-92" vertex="1">
           <mxGeometry x="938" y="170.5" width="279" height="279" as="geometry" />
