@@ -29,7 +29,7 @@
           <mxGeometry x="788" y="280" width="149" height="60" as="geometry" />
         </mxCell>
         <mxCell id="trQF1PDlpNfxSEzQ2k9J-1" value="模型库" style="whiteSpace=wrap;strokeWidth=2;fontSize=18;" parent="v61mKVEbNvWjGDij5buq-92" vertex="1">
-          <mxGeometry x="230.5" y="297" width="109" height="49" as="geometry" />
+          <mxGeometry x="776" y="110" width="109" height="49" as="geometry" />
         </mxCell>
         <mxCell id="trQF1PDlpNfxSEzQ2k9J-2" value="统一密码服务平台" style="whiteSpace=wrap;strokeWidth=2;fontSize=18;" parent="v61mKVEbNvWjGDij5buq-92" vertex="1">
           <mxGeometry x="956" y="70" width="189" height="49" as="geometry" />
@@ -48,6 +48,9 @@
         </mxCell>
         <mxCell id="8J4PdL0vconWBFRwew08-14" value="&lt;font style=&quot;font-size: 25px;&quot;&gt;二级域&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="v61mKVEbNvWjGDij5buq-92">
           <mxGeometry x="322" y="129" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="8J4PdL0vconWBFRwew08-16" value="模型库" style="whiteSpace=wrap;strokeWidth=2;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="1076" y="1080" width="109" height="49" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
