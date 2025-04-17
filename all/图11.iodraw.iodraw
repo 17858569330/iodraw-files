@@ -5,7 +5,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="v61mKVEbNvWjGDij5buq-92" value="管理信息大区" style="whiteSpace=wrap;strokeWidth=10;verticalAlign=top;fontSize=30;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
-          <mxGeometry x="414" y="1070" width="1436" height="770" as="geometry" />
+          <mxGeometry x="414" y="1070" width="1436" height="781" as="geometry" />
         </mxCell>
         <mxCell id="v61mKVEbNvWjGDij5buq-94" value="" style="whiteSpace=wrap;strokeWidth=5;fontSize=20;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="v61mKVEbNvWjGDij5buq-92" vertex="1">
           <mxGeometry x="112" y="93" width="553" height="434" as="geometry" />
@@ -32,7 +32,7 @@
           <mxGeometry x="788" y="280" width="149" height="60" as="geometry" />
         </mxCell>
         <mxCell id="trQF1PDlpNfxSEzQ2k9J-1" value="模型库" style="whiteSpace=wrap;strokeWidth=2;fontSize=18;" parent="v61mKVEbNvWjGDij5buq-92" vertex="1">
-          <mxGeometry x="300" y="297" width="109" height="49" as="geometry" />
+          <mxGeometry x="776" y="110" width="109" height="49" as="geometry" />
         </mxCell>
         <mxCell id="trQF1PDlpNfxSEzQ2k9J-2" value="统一密码服务平台" style="whiteSpace=wrap;strokeWidth=2;fontSize=18;" parent="v61mKVEbNvWjGDij5buq-92" vertex="1">
           <mxGeometry x="436" y="117" width="189" height="49" as="geometry" />
@@ -43,17 +43,8 @@
         <mxCell id="8J4PdL0vconWBFRwew08-6" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.bendDoubleArrow;dy=15;dx=38;arrowHead=55;rounded=0;direction=south;" vertex="1" parent="v61mKVEbNvWjGDij5buq-92">
           <mxGeometry x="788" y="373" width="122" height="187" as="geometry" />
         </mxCell>
-        <mxCell id="8J4PdL0vconWBFRwew08-8" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.twoWayArrow;dy=0.65;dx=22;direction=south;" vertex="1" parent="v61mKVEbNvWjGDij5buq-92">
-          <mxGeometry x="359.5" y="416.5" width="40.5" height="143.5" as="geometry" />
-        </mxCell>
-        <mxCell id="8J4PdL0vconWBFRwew08-9" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.twoWayArrow;dy=0.65;dx=22;direction=south;" vertex="1" parent="v61mKVEbNvWjGDij5buq-92">
-          <mxGeometry x="601.75" y="416.5" width="40.5" height="143.5" as="geometry" />
-        </mxCell>
-        <mxCell id="8J4PdL0vconWBFRwew08-10" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.twoWayArrow;dy=0.65;dx=22;direction=south;" vertex="1" parent="v61mKVEbNvWjGDij5buq-92">
-          <mxGeometry x="506" y="166" width="40" height="100" as="geometry" />
-        </mxCell>
-        <mxCell id="8J4PdL0vconWBFRwew08-12" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="596" y="1780" width="443" height="271" as="geometry" />
+        <mxCell id="8J4PdL0vconWBFRwew08-12" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="v61mKVEbNvWjGDij5buq-92">
+          <mxGeometry x="203.5" y="510" width="443" height="271" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
