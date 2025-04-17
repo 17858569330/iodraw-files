@@ -53,10 +53,7 @@
           <mxGeometry x="814" y="411" width="330" height="330" as="geometry" />
         </mxCell>
         <mxCell id="8J4PdL0vconWBFRwew08-39" value="统一密码服务平台" style="whiteSpace=wrap;strokeWidth=2;fontSize=18;" vertex="1" parent="v61mKVEbNvWjGDij5buq-92">
-          <mxGeometry x="890" y="650" width="189" height="49" as="geometry" />
-        </mxCell>
-        <mxCell id="8J4PdL0vconWBFRwew08-40" value="统一密码服务平台" style="whiteSpace=wrap;strokeWidth=2;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="1020" y="1810" width="189" height="49" as="geometry" />
+          <mxGeometry x="900" y="471" width="189" height="49" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
