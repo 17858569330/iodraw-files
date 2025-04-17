@@ -32,7 +32,7 @@
           <mxGeometry x="322" y="129" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="8J4PdL0vconWBFRwew08-16" value="模型库" style="whiteSpace=wrap;strokeWidth=2;fontSize=18;" vertex="1" parent="v61mKVEbNvWjGDij5buq-92">
-          <mxGeometry x="240" y="297" width="109" height="49" as="geometry" />
+          <mxGeometry x="220" y="297" width="109" height="49" as="geometry" />
         </mxCell>
         <mxCell id="8J4PdL0vconWBFRwew08-32" value="样本库" style="whiteSpace=wrap;strokeWidth=2;fontSize=18;" vertex="1" parent="v61mKVEbNvWjGDij5buq-92">
           <mxGeometry x="438.5" y="297" width="110" height="49" as="geometry" />
@@ -62,7 +62,7 @@
           <mxGeometry x="665" y="450" width="145" height="50" as="geometry" />
         </mxCell>
         <mxCell id="8J4PdL0vconWBFRwew08-80" value="图像检索模块" style="whiteSpace=wrap;strokeWidth=2;fontSize=18;" vertex="1" parent="v61mKVEbNvWjGDij5buq-92">
-          <mxGeometry x="239" y="380" width="109" height="49" as="geometry" />
+          <mxGeometry x="220" y="380" width="109" height="49" as="geometry" />
         </mxCell>
         <mxCell id="8J4PdL0vconWBFRwew08-81" value="目标检测模块" style="whiteSpace=wrap;strokeWidth=2;fontSize=18;" vertex="1" parent="v61mKVEbNvWjGDij5buq-92">
           <mxGeometry x="438.5" y="391" width="109" height="49" as="geometry" />
