@@ -20,7 +20,7 @@
           <mxGeometry x="1088" y="297" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="v61mKVEbNvWjGDij5buq-182" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.twoWayArrow;dy=0.65;dx=22;" parent="v61mKVEbNvWjGDij5buq-92" vertex="1">
-          <mxGeometry x="788" y="280" width="149" height="60" as="geometry" />
+          <mxGeometry x="665" y="291.5" width="149" height="60" as="geometry" />
         </mxCell>
         <mxCell id="trQF1PDlpNfxSEzQ2k9J-2" value="统一密码服务平台" style="whiteSpace=wrap;strokeWidth=2;fontSize=18;" parent="v61mKVEbNvWjGDij5buq-92" vertex="1">
           <mxGeometry x="1053.5" y="442" width="189" height="49" as="geometry" />
@@ -50,7 +50,7 @@
           <mxGeometry x="1080.5" y="380" width="135" height="49" as="geometry" />
         </mxCell>
         <mxCell id="8J4PdL0vconWBFRwew08-37" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.twoWayArrow;dy=0.65;dx=22;direction=south;" vertex="1" parent="v61mKVEbNvWjGDij5buq-92">
-          <mxGeometry x="349" y="527" width="38" height="100" as="geometry" />
+          <mxGeometry x="349" y="527" width="38" height="73" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
