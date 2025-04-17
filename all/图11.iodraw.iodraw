@@ -34,9 +34,6 @@
         <mxCell id="v61mKVEbNvWjGDij5buq-182" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.twoWayArrow;dy=0.65;dx=22;" parent="v61mKVEbNvWjGDij5buq-92" vertex="1">
           <mxGeometry x="788" y="311" width="149" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="v61mKVEbNvWjGDij5buq-183" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.twoWayArrow;dy=0.65;dx=22;" parent="v61mKVEbNvWjGDij5buq-92" vertex="1">
-          <mxGeometry x="789" y="383" width="149" height="60" as="geometry" />
-        </mxCell>
         <mxCell id="trQF1PDlpNfxSEzQ2k9J-1" value="模型库" style="whiteSpace=wrap;strokeWidth=2;fontSize=18;" parent="v61mKVEbNvWjGDij5buq-92" vertex="1">
           <mxGeometry x="300" y="297" width="109" height="49" as="geometry" />
         </mxCell>
