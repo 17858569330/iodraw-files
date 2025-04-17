@@ -44,7 +44,7 @@
           <mxGeometry x="168" y="200" width="443" height="271" as="geometry" />
         </mxCell>
         <mxCell id="8J4PdL0vconWBFRwew08-13" value="&lt;span style=&quot;font-size: 25px;&quot;&gt;人工智能样本智能处理模块&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="v61mKVEbNvWjGDij5buq-92">
-          <mxGeometry x="322" y="207" width="60" height="30" as="geometry" />
+          <mxGeometry x="230.5" y="220" width="318" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
