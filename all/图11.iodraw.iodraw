@@ -35,7 +35,7 @@
           <mxGeometry x="776" y="110" width="109" height="49" as="geometry" />
         </mxCell>
         <mxCell id="trQF1PDlpNfxSEzQ2k9J-2" value="统一密码服务平台" style="whiteSpace=wrap;strokeWidth=2;fontSize=18;" parent="v61mKVEbNvWjGDij5buq-92" vertex="1">
-          <mxGeometry x="436" y="117" width="189" height="49" as="geometry" />
+          <mxGeometry x="956" y="70" width="189" height="49" as="geometry" />
         </mxCell>
         <mxCell id="trQF1PDlpNfxSEzQ2k9J-6" value="样本库" style="whiteSpace=wrap;strokeWidth=2;fontSize=18;" parent="v61mKVEbNvWjGDij5buq-92" vertex="1">
           <mxGeometry x="640" y="297" width="110" height="49" as="geometry" />
@@ -44,7 +44,7 @@
           <mxGeometry x="788" y="373" width="122" height="187" as="geometry" />
         </mxCell>
         <mxCell id="8J4PdL0vconWBFRwew08-12" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="v61mKVEbNvWjGDij5buq-92">
-          <mxGeometry x="203.5" y="510" width="443" height="271" as="geometry" />
+          <mxGeometry x="166" y="178.5" width="443" height="271" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
