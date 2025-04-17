@@ -73,8 +73,8 @@
         <mxCell id="8J4PdL0vconWBFRwew08-83" value="样本管理模块" style="whiteSpace=wrap;strokeWidth=2;fontSize=18;" vertex="1" parent="v61mKVEbNvWjGDij5buq-92">
           <mxGeometry x="476" y="380" width="109" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="8J4PdL0vconWBFRwew08-85" value="" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;direction=west;" vertex="1" parent="v61mKVEbNvWjGDij5buq-92">
-          <mxGeometry x="410" y="550" width="120" height="80" as="geometry" />
+        <mxCell id="8J4PdL0vconWBFRwew08-85" value="" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;direction=south;" vertex="1" parent="v61mKVEbNvWjGDij5buq-92">
+          <mxGeometry x="373" y="503.5" width="80" height="120" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
