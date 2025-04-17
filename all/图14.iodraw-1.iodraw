@@ -74,7 +74,7 @@
           <mxGeometry x="476" y="380" width="109" height="49" as="geometry" />
         </mxCell>
         <mxCell id="8J4PdL0vconWBFRwew08-115" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;桌面终端上传或者调用样本以及模型&lt;/font&gt;" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;size=40;position=0.16;position2=0.06;" vertex="1" parent="v61mKVEbNvWjGDij5buq-92">
-          <mxGeometry x="387" y="490" width="210" height="80" as="geometry" />
+          <mxGeometry x="360" y="490" width="210" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
