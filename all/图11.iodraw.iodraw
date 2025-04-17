@@ -49,6 +49,9 @@
         <mxCell id="8J4PdL0vconWBFRwew08-36" value="RDS数据库" style="whiteSpace=wrap;strokeWidth=2;fontSize=18;" vertex="1" parent="v61mKVEbNvWjGDij5buq-92">
           <mxGeometry x="1080.5" y="380" width="135" height="49" as="geometry" />
         </mxCell>
+        <mxCell id="8J4PdL0vconWBFRwew08-37" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.twoWayArrow;dy=0.65;dx=22;direction=south;" vertex="1" parent="1">
+          <mxGeometry x="990" y="1530" width="60" height="100" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
