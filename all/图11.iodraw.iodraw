@@ -5,7 +5,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="v61mKVEbNvWjGDij5buq-92" value="管理信息大区" style="whiteSpace=wrap;strokeWidth=10;verticalAlign=top;fontSize=30;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
-          <mxGeometry x="380" y="980" width="1436" height="770" as="geometry" />
+          <mxGeometry x="380" y="1020" width="1436" height="770" as="geometry" />
         </mxCell>
         <mxCell id="v61mKVEbNvWjGDij5buq-94" value="" style="whiteSpace=wrap;strokeWidth=5;fontSize=20;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="v61mKVEbNvWjGDij5buq-92" vertex="1">
           <mxGeometry x="235" y="266" width="553" height="150" as="geometry" />
@@ -45,9 +45,6 @@
         </mxCell>
         <mxCell id="trQF1PDlpNfxSEzQ2k9J-2" value="统一密码服务平台" style="whiteSpace=wrap;strokeWidth=2;fontSize=15;" parent="v61mKVEbNvWjGDij5buq-92" vertex="1">
           <mxGeometry x="390" y="80" width="189" height="49" as="geometry" />
-        </mxCell>
-        <mxCell id="trQF1PDlpNfxSEzQ2k9J-3" value="模型库" style="whiteSpace=wrap;strokeWidth=2;fontSize=15;" parent="v61mKVEbNvWjGDij5buq-92" vertex="1">
-          <mxGeometry x="287" y="248" width="110" height="49" as="geometry" />
         </mxCell>
         <mxCell id="trQF1PDlpNfxSEzQ2k9J-6" value="样本库" style="whiteSpace=wrap;strokeWidth=2;fontSize=15;" parent="v61mKVEbNvWjGDij5buq-92" vertex="1">
           <mxGeometry x="640" y="297" width="110" height="49" as="geometry" />
